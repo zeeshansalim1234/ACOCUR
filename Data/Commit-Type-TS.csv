@@ -1,0 +1,2235 @@
+Processed_Text,Type
+gradle update support android 6 video playback select nsfw toogle not implement,Android Version
+upgrade target sdk version 27 android default zrtp now use zrtp hash sdp attribute,Device
+try 2 provide custom tlssocketfactory support tlsv tlsv protocol use api { 16 sdk_version 22 },Android Version
+unify jsonparser one common class free pro version main now replace old android support v4 app actionbardrawertoggle android support v7 app actionbardrawertoggle new implementation google material design change behaviour toolbar home button replace torrent detail fragment phone version,Android Version
+switched android sdk still backwards compatible header text now button can put onclicklistener playlistactivity java click header text current playing song will select,Other
+android support library api level 24,Android Version
+gingerbread disable crashy autocompletetextview edit summary,Android Version
+version enable api level 21 lollipop fix several regard improve tls security issue enable ssl http auth preferences specify per wifi network issue fix download attached medium file issue,Android Version
+1 updated androidmanifest versionname versioncode 10,Android Version
+release work issue 48 88 also fix connect issue pre api 11 device,Device
+7 fix fix npe deletion function possibly fix rare crash pagedreader fix local synopsis get lose weak wifi signal weak wifi signal search manga update sometimes good long synopsis description get overridden without synopsis variation thereof fix default synopsis use without synopsis variation thereof will never override exist synopsis real change synopsis website will course still override exist local synopsis check manga already add detailsfragment onstart method thread show manga already add status instead press floatingactionbutton also add check manga already add sfnf add context menu fix edge case notification can display 50 notification try display get notification corruption lead erratic app behaviour now cancel update process display 48 notification notify user clear notification now implement manual update fix sometimes make sort order mangafragment not update correctly value correctly save not load correctly chapter sort order now stay permanent not reset add white icon notification make android 5 use white icon design guideline use white notification icon android 5,Android Version
+add multidex support old apis update late,Android Version
+add support android 4 select text,Android Version
+add vector support old device report crash issue,Device
+add basic support play whole folder add hdpi scroller handle change icon eclair,Android Version
+add support api version 26,Android Version
+advance target late version android minus 1 will advance I delete dependency delete floatmath api,Android Version
+compat lib update call oncreate throw error,Android Version
+android crash fix interpolator api fix,Android Version
+android compatible sorry kitkat will not support,Android Version
+android nougat compatibility,Android Version
+android oreo support,Android Version
+android pie support,Android Version
+android sdk update first visible row not restore rotate device,Android Version
+android sdk update first visible row not restore rotate device,Android Version
+android sdk update fix device verification issue use fail device contain,Android Version
+android sdk update room activity screen rotation,Android Version
+android api 21,Android Version
+androidmanifext xml change min sdk version 4 android updated version code 12,Android Version
+app add support android usage last run time api 21,Android Version
+apply style gingerbread honeycomb,Android Version
+fix app crash use vector drawables drawablestart drawableend etc pre lollipop device,Android Version
+bump sdk version upgrade support appcompat libs,Android Version
+bump version update changelog update support libs,Android Version
+change minimum support android version,Android Version
+chore update androidx dependency version,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+test update android version 25,Android Version
+travis update android api,Android Version
+declare mainfest multi window support nougat change navigation drawer coordinator layout allow header image scroll away lollipop,Android Version
+not display icon actionbar save space device phone android version honeycomb,Device
+not use provider android 22,Android Version
+not authenticate not fetch api version information adjust behaviour accordingly still crash sort api ver 2,Android Version
+not crash old android version,Android Version
+not use okhttp froyo require least api level 9,Android Version
+downgrade android support library version 19,Android Version
+emojicon build tool library support library version update,Android Version
+fix android view inflateexception pre lollipop device,Android Version
+fix compatibility new kanboard version api,Other
+fix country selector old android,Android Version
+fix crash ice cream sandwich android version,Android Version
+fix crash marshmallow disable proguard,Android Version
+fix crash option menu pre honeycomb device,Android Version
+fix crash low density device correctly update game not sign support pink player color authentication expire session not just password correctly log account not set,Device
+fix crash pre lollipop device,Android Version
+fix crash navigation android 2 device,Android Version
+fix custom notification layout pre honeycomb device workaround notificationcompat builder change default custom layout honeycomb kitkat custom layout match system layout closely setting turn system layout still work update change default sensible,Android Version
+fix update not trigger open app global search live folder android beam nfc now check free space try move nfc relate method ics gingerbread,Android Version
+fix file order crash phone,Device
+fix nook simple touch revert gradle gradle auto uplift project min support platform gingerbread,Android Version
+fix jelly bean black screen issue fall back default,Android Version
+fix startup crash pre lollipop device not use build supported_abis,Device
+fix status bar pre kitkat,Android Version
+fix notification sound update android 8 device,Android Version
+fix crash press back map android version,Android Version
+fix crash zodiac add support device,Device
+fix crash kitkat loading drawables downgrade gradle appcompat version,Android Version
+fix notification crash jellybean kitkat vector drawables not support notification action button,Android Version
+fix npe exit task execution fix wrong condition context menu creation add title context menu update library version,Android Version
+fix pom xml correct android api version 15 instead 17 brought thomas fix activity leak window originally add openhabstartupactivity cause incorrect progress dialog close fix malformed url exception normalizeurl openhabstartupactivity,Android Version
+fix transaction invert open edit fix home button recur transaction view not work fix setting menu now visible recur transaction view fix crash open setting android version honeycomb update copyright notice prepare string beta2 release,Android Version
+fix crash android api 16 jelly bean,Android Version
+hotfix theme must reference sherlock android 3 device crash,Android Version
+implement storage access framework work finish mission database work downloadmission bump serializable version keep classic java api saf tree api support android lollipop high add wrapper saf stream open implement closeable sharpstream replace dispose method,Android Version
+improve string android migration support,Android Version
+issue setautolinkmask linkify cause crash android webview not present device,Device
+libvlc use new android marshmellow api get list supported encoding,Android Version
+low min api android bump version,Android Version
+make card radius 0dp lollipop not crash kitkat,Android Version
+make toolbar shadow visible pre lollipop android version fix crash delete draft medium attach,Android Version
+migrate support library architecture component androidx,Android Version
+minimal android version update translation,Android Version
+multi window support add android nougat change travis yml updated buildtools java version,Android Version
+new version support library solves miss color fab gingerbread,Android Version
+note minimum android version receive bluetooth offline transaction,Android Version
+add app name notification text version android nougat,Android Version
+paintroid 84 fix color picker crash pre lollipop device,Android Version
+remove android support lib,Android Version
+remove class compatibility notification android api level less 14 not support,Android Version
+remove code become unneeded set minimum target api 21 android lollipop,Android Version
+revert fix health bar marshmallow device test donut x86,Android Version
+revert back use icon provide platform add not available api goto mark platform specific versoins,Other
+rewrite root input capture compatible android much secure general,Android Version
+scanactivity fix nosuchmethoderror pre android lollipop device,Android Version
+sdk update,Android Version
+set minimum required android version 12 honeycomb,Android Version
+split play service avoid support version conflict com android support library must use exact version specification mix version can lead runtime crash find version,Android Version
+start deprecation android version lollipop,Android Version
+start support android new immersive mode,Android Version
+support material design api 21,Android Version
+support old device compat,Device
+switch new api create home shortcut work new phone part upgrade newer support library android api version replace fosdem logo new one actually 100 square,Android Version
+sync use foreground service every android version,Android Version
+target qqq fix notification sdk probably breaks notification old honeycomb will fix rest confirm not build yet,Android Version
+target sdk 28 android pie,Android Version
+actually work incorporate new library android marshmellow support however not use public api I will get version work public api soon,Android Version
+try fix dropbox conflict wait new version,Other
+try fix nodisplay theme crash marshmallow,Android Version
+update android api 20,Android Version
+update android design support library,Android Version
+update android library reference,Android Version
+update android support library,Android Version
+update android support library,Android Version
+update android version number deploy,Android Version
+update androidx fix icon crash preference api 19,Android Version
+update api level android 8,Android Version
+update api version build break will need work,Android Version
+update conductor support preference androidx preference compat fix,Android Version
+update dependency androidx coroutines bump version number,Android Version
+update gradle android support,Android Version
+update padding api version 14,Android Version
+update passowrdedittext android support library,Android Version
+update sdk build tools sample integration android,Android Version
+update support library 25er version progress autofill service implementation,Android Version
+update support library version,Android Version
+update support library version fix font family serif issue,Android Version
+update support libs page,Android Version
+update support libs materialdrawer,Android Version
+update support libs,Android Version
+update targetsdkversion late api 22 android,Android Version
+update android support package rev 6,Android Version
+update compatible late android studio,Other
+update new appcompat fix build error,Other
+update support library last version support api 9,Android Version
+update late version android,Android Version
+update travis android api 27 well,Android Version
+update version number name min version remove jelly bean workaround,Android Version
+update versionname versioncode androidmanifest xml workaround,Android Version
+update android target version travis,Android Version
+update compat lib late version,Android Version
+updated compatibility section,Other
+updated dependency build tool recent version upgrade compile target android 9,Android Version
+update embed library libpng version libpng configure toolchain arm linux androideabi android ndk 16b api14,Android Version
+update previous fix show menu drawer tablet layout work large device rather just xlarge support nexus 7,Android Version
+updated support library jar app version number also fixed comment view selection sticking tablet,Android Version
+updated wallpaper honeycomb,Android Version
+update mockito support lib version,Android Version
+update version code lollipop lollipop,Android Version
+upgrade android support library,Android Version
+upgrade api level android 10 implement new share api,Android Version
+upgrade package downgrade appcompat crash lollipop,Android Version
+upgrade support library version,Android Version
+use currently available version r4 compatibility lib,Android Version
+fix hangul char not always split correctly android 6,Android Version
+fix version android crash upload photo,Device
+android studio support lib update,Android Version
+add_wigets_support fix crash android device,Android Version
+update target api 24 android nougat,Android Version
+check api version,Android Version
+fix bunch lint error code resource add convenience class check android api version,Android Version
+use old okhttp version maintain android 4 compatibility,Android Version
+update support library version,Android Version
+release update version android manifest,Android Version
+walletapplication save last known bluetooth address order prepare future android version try hide,Android Version
+update support library compile version order fix build,Android Version
+notification color icon android api version,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+saf implementation full support directory api android lollipop later best effort handle kind error miss file revoke permission etc recover download implement directory choose fix download database version upgrade misc cleanup not release permission old save path user change download directory saf api,Android Version
+fix build target sdk 26 update support library version update gradle add support android studio 3 update robototextview master add support change introduce sdk 26 add robototextview gradle plugin exclude unused font,Android Version
+revert notification color icon android api version,Android Version
+target android oreo mr1,Android Version
+update support library version fix might worth update,Android Version
+update gradle android api version,Android Version
+fix startup crash pre honeycomb device,Device
+matrix android sdk update reduce loading time load e2e device demand,Android Version
+circleci refactor android api max 25 min 16 arm,Android Version
+revise app description clarify may not work device,Device
+update min require android version lollipop 5,Android Version
+update sdk version support library 23,Android Version
+added old android lockpattern dependency new version update test,Android Version
+fix android compat 2nd param bundle getstring support,Android Version
+update android api 25 change min version 15,Android Version
+add android 10 support fix mispellings,Android Version
+notification displayed dev version android 8 device,Device
+minimum support api 19 kitkat,Android Version
+created new contactwrapper class handle difference contact api pre uses reflection one piece added czech translation string updated tts stub,Android Version
+searchactivity remove compatibility code api version 16,Android Version
+dccmanager fallback download dir can null getexternalfilesdir can return null device docs mention can return null share storage not available fix startup crash however downloads will not work device unless different directory use accord google play affect single user signle device make specific error case unneeded,Device
+fix locationmanager will crash api 23,Android Version
+fix crash splash screen version kitkat due try load vector drawable selector,Android Version
+update android version,Android Version
+release update version android manifest,Android Version
+add androidmanifest api level 18 automator test,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+update library version move android 29,Android Version
+release update version android manifest,Android Version
+fix crash android list unknown device,Android Version
+update fcm libs avoid crash android oreo device,Android Version
+update android support library r7,Android Version
+switch android cropper library come jitpacked github update support library 28,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+update android support library,Android Version
+release update version android manifest,Android Version
+android use appropriate android support library version,Android Version
+patch choose default notif sound riot setting notification set phone default ring tone not notif happen 2 android device test riot,Device
+refactor rtree use boundingbox instead rect update android version number,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+fix crash create option menu android version menu create event load report simon debaeke,Android Version
+update android support libs,Android Version
+release update version android manifest,Android Version
+revert android support library update,Android Version
+vectormessagelistfragment save not use crash device kitkat,Android Version
+revert upgrade multidex support lib api 16 device crash,Android Version
+update subnodule keybase fix version support libs,Android Version
+fix use wrong version android support package,Android Version
+android update version,Android Version
+android sdk update,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+updated script android support library version thirdparty now replace know sane version,Android Version
+fix crash pre api level 19 device due getalpha call drawable,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+build set target sdk version 28 update gradle,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+treatment unloadable app icons added android version support back,Android Version
+update android 8 device notification management,Android Version
+release update version android manifest,Android Version
+update gradle version fix crash kitkat cause old gradle plugin version,Android Version
+release update version android manifest,Android Version
+update robolectric support new android support libs,Android Version
+release update version android manifest,Android Version
+update android support library mainly fix crash android 3 device due new api notification,Android Version
+add flag cause crash old android version,Android Version
+update travis android build tools version,Android Version
+update 68 replace android support library usage androidx,Android Version
+hardcode oreo setting style old android version,Android Version
+update android version support google guideline,Android Version
+update android sdk support library,Android Version
+update_recents_design update icon update manage android api 21,Android Version
+bump rootproject retrofitversion bump rootproject okhttpversion late supported version api 9,Android Version
+release update version android manifest,Android Version
+integration android update sourcecompatibility targetcompatibility,Other
+update android version code rebuild,Android Version
+update android version,Android Version
+release update version android manifest,Android Version
+remove uneeded android support library dependency,Android Version
+update api version 11,Android Version
+update rendering type new android version new map creator,Android Version
+sni support fixes 9 available api level 17 android,Android Version
+skip update android support library v4,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+dumb update jelly bean workaround app just version,Android Version
+build update late android support library,Android Version
+release update version android manifest,Android Version
+avoid usage magic number android api version,Android Version
+fix xmls update property target platform android 19,Android Version
+start deprecation android version kitkat,Android Version
+updated support library target version tool android,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+crash history screen device api 21,Android Version
+release update version android manifest,Android Version
+backport pixel oreo colour older android version,Android Version
+release update version android manifest,Android Version
+android support library update,Android Version
+update android support library version 11,Android Version
+release update version android manifest,Android Version
+update androidx version,Android Version
+move switchpreference switchpreferencecompat good support old android version,Android Version
+invalidate map relation member add updated android version number,Android Version
+specify android support library travis without version,Android Version
+jitsi not support anymore device api 21,Android Version
+intellij idea update android support version per e7964682564e7ea6049c6dee6b4e7f0a569564dc,Android Version
+release update version android manifest,Android Version
+widget integration work now kitkat device,Android Version
+release update version android manifest,Android Version
+updated support library,Android Version
+release update version android manifest,Android Version
+make tab slidingtablayout focusable keyboard input use support library selectableitembackground instead platform one allow selectable background api 14,Android Version
+release update version android manifest,Android Version
+remove scale fix crash android device fix,Android Version
+bump version gradle android gradle plugin android support library,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+updated script android support library version thirdparty now replace know sane version,Android Version
+update compatibility support section,Other
+release update version android manifest,Android Version
+android support library version update,Android Version
+update android support library rev 18,Android Version
+remove piece outdated gingerbread compatibility code,Android Version
+android support library upgrade,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+update late android support library,Android Version
+release update version android manifest,Android Version
+update android version number,Android Version
+update versionname versioncode androidmanifest xml workaround,Android Version
+chore update build tool android version dependency,Android Version
+fix crash android lollipop cliking refresh whole account,Android Version
+update new android support library android sdk version,Android Version
+release update version android manifest,Android Version
+add android sdk platform api level 16 travis build file,Android Version
+hide auto sync pre nougat version,Android Version
+release update version android manifest,Android Version
+fix lack file android version previous gingerbread,Android Version
+upgrade android compatibility package rev 4 fix dpad navigation transaction list,Other
+fix api version support update api lib,Android Version
+release update version android manifest,Android Version
+update external storage api device,Android Version
+update call now api version,Android Version
+update build gradle use google apis 23 map support appcompat 23 set targetsdk 22 avoid runtime permission check now,Android Version
+update android support library v13,Android Version
+fix crash update language android 5,Android Version
+fix exception try listen bluetooth connection early android 4 version,Android Version
+change build gradle use late version android support library,Android Version
+release update version android manifest,Android Version
+update library version,Android Version
+fix gui list sync introduce logger class disable log easily since may crash huawei device,Device
+sample integration android require android kitkat,Android Version
+release update version android manifest,Android Version
+android qqq support update build tool,Android Version
+android support library update late version,Android Version
+update gradle support lib version therefor som minor reqirment change toolbar color,Android Version
+android version bump 33,Android Version
+release update version android manifest,Android Version
+fix signout bottomsheet crash old device test kitkat,Device
+updated version code version name android,Android Version
+update android oreo api 26,Android Version
+update androidmanifest xml api 8 feature,Android Version
+android support library update,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+updated target version 29 android 10,Android Version
+android support library version update,Android Version
+update android support library,Android Version
+release update version android manifest,Android Version
+update android version gradle build 22,Android Version
+release update version android manifest,Android Version
+updated version code name,Android Version
+update versionname versioncode version also workaround,Android Version
+release update version android manifest,Android Version
+upgrade android support library,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+update late version android support library,Android Version
+use resourcecompat support android version,Other
+update ref android library increase build target api level 23,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+1470 remove condition ignore android hardware action new_picture event device version,Device
+release update version android manifest,Android Version
+make upgradewalletservice inactivitynotificationservice run foreground service android oreo,Android Version
+release update version android manifest,Android Version
+update android sdk v23 deal android 6 permission system update gradle version,Android Version
+release update version android manifest,Android Version
+androidx migration small fix image activity case new image update library version minsdkversion support now 16 complete support sdk 16 remove commons lang3 not compatible,Android Version
+release update version android manifest,Android Version
+update android version number build instruction,Android Version
+update support,Android Version
+update android support library version 13,Android Version
+gradle sdk android support library update,Android Version
+update sdk build tools 24 sample integration android,Android Version
+update versionname versioncode androidmanifest xml,Android Version
+release update version android manifest,Android Version
+travis update android version,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+refresh project 1 ant build retire gradle build significantly improve 2 fix crash view address code 3 update lollipops 4 fix mute many warning 5 update android support library now gradle,Android Version
+android support library upgrade,Android Version
+update library version buildbot,Android Version
+release update version android manifest,Android Version
+update android sdk,Android Version
+update support library androidx,Android Version
+build update android support library,Android Version
+bugfix lollipop alertdialog see style move away android reference icon self shipped version design consistency,Android Version
+release update version android manifest,Android Version
+update target build tool support library version 26 add dependency repository jcenter maven google com change deprecated actionbaractivity appcompatactivity,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+update gradle version target sdk android 9,Android Version
+updated support lib version,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+require android kitkat,Android Version
+update android support library revision 21,Android Version
+reportissuedialogfragment report support abis android lollipop,Android Version
+release update version android manifest,Android Version
+update versionname versioncode update changelog new feature improvement fixing,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+not specify version android support library,Android Version
+update android support version,Android Version
+increment versioncode upgrade androidx implementation,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+add android api version check,Android Version
+2 fix miss widget update app pause fix protect note updated rotate screen without insert password fix update gradle wrapper tool workaround broken reminder nougat fix fix type changelog update add miss string compare develop translation update minor textual typo fix broken location address set google map api key hardcoded now optional wip tmp auto stash cherrypick google map api key hardcoded now optional `` month ago `` bumped version update translation reset password use now available password prompt develop master develop `` password removal perform background dialog close completion lock note now process encrypt password change fix fix miss widget update app pause fix protect note updated rotate screen without insert password fix 2 month ago changelog update updated translation bump app version workaround broken reminder nougat fix update gradle build tool collapsable note title detail move attachment image top use grid view note list updated compatibility library dependencies fix type build tool update fix end position calculation title animation note detail view fix build tool version travisci config finish finish changelog update added miss string compare develop translation update updated gradle plugin version update minor textual typo complete redesign detail view align checklist element note list view minor change comment codacy analysis update gradle binary version update grade sonar plugin use recyclerview display note list add new stagger grid layout fix broken location address set 4 month ago google map api key hardcoded now optional code optimization simplegallery dependency update version add file size attachments action dialog code optimization 5 month ago gifs animation support within internal gallery update common model dependency develop snapshot code change lower technical debt add nire badge readme reverted version pre state master develop remove unused class remove unused class remove search string label change sort order fix fix note open home widget break navigation bump version master version update fixed broken navigation drawer open app dashclock widget version update reverted gradle build tool late stable master fix audio recording attachment uris remove sign configuration sign property file relative path dummy test add reverted attachment copy single thread avoid strange artifact typo 6 month ago fix geolocation runtime permission not need fix broken share intent handle android marshmallow add app logo base64 encode info page remove wrongly added feature string update version navigation change issue app open home widget updated translation archive note now hide within home widget integrated signature property configuration file fix many lint error prevent run releasedebug build master develop lock note now process encrypt password change fix,Android Version
+update dependency rxmd android support library,Android Version
+update versionname versioncode androidmanifest xml workaround,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+update versionname versioncode androidmanifest xml workaround,Android Version
+release update version android manifest,Android Version
+update late version android studio,Android Version
+add android api version check 2,Android Version
+update compilesdkversion support libs 27 28 api,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+use http support gingerbread not android 9,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+update android support library material dialogs 2,Android Version
+update travis yml android target sdk 29,Android Version
+android 8 crash device boot,Android Version
+drop support api 7 8 device good time,Android Version
+fix crash android surely sdk version,Android Version
+update gradle build sdk 29 update external libs drop auto theme option coarse location permission deprecate androidx support,Android Version
+upgrade min version android preparation release,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+update gradle kotlin android support libs,Android Version
+add try cipher suite may support non standard android device,Device
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+release update version android manifest,Android Version
+update android version,Android Version
+updated support library,Android Version
+release update version android manifest,Android Version
+issue 5218087 honeycomb_mr2 ice_cream_sandwich widget padding,Android Version
+release update version android manifest,Android Version
+library database integrity check android version changelog update,Android Version
+update compilesdkversion targetsdkversion api 25 update support library,Android Version
+android sdk update fix crash,Android Version
+target api 29 update gradle update dependency,Android Version
+android 7 workaround update hash group membership operation,Android Version
+fix android auto previous version get reject play store,Android Version
+doc notification describe riot fix android 8 background task,Android Version
+support gesture lock low api device,Device
+fix bunch lint error code resource add convenience class check android api version,Android Version
+remove version check api 21 device,Android Version
+support pre jelly_bean ndef,Android Version
+update version number name,Android Version
+drop support api 15 ice cream sandwich,Android Version
+update sdk version 22 update buildtools update android support,Android Version
+update travis android use api 25,Android Version
+update network support android nougat,Android Version
+update support libs build tool v26,Android Version
+rearrange content project file fixes several issue use arm define mobile platform instead gles allow arm device raspberry access previously desktop feature like sdl detect user linux distro opt use qtmultimedia situation use instead qtmobility save download organise library way make sense compile translation linux desktop will use translation use constant macro define platform clean redundant comment add new one add support back blackberry ffmpeg raspberry require ffmpeg,Device
+handle different full screen mode depend android device version,Android Version
+start service right way android oreo device,Android Version
+support api version 3 4,Android Version
+support lib version update,Android Version
+update common min android version 5,Android Version
+fix verifyerror crash old android version,Android Version
+upgrade min sdk version sample client include library,Android Version
+refactored significant poritions pdf generation stack order good support generalized concept grid measuring rendering inspire lack support multi page pdfs update handle now order acheive general manner also upgrade min sdk version lollipop,Android Version
+disable contact sync default android 6,Android Version
+update sdk api level 19 kitkat,Android Version
+add android 8 compatibility use job scheduler 21 device refresh even widget not add,Android Version
+update guava version fix r8 compatibility,Other
+android support update build tool,Android Version
+fix minimum version full notification builder,Android Version
+bump default api version 17 miss sdk bump,Android Version
+remove android test drive,Android Version
+remove deprecate support version kitkat minimum,Android Version
+update build tool version always use late available support libs,Android Version
+android support library upgrade,Android Version
+android canvasview compatibility api level 11,Android Version
+update buildtoolsversion support library,Android Version
+update androidx version,Android Version
+target api 22 since not yet update new permission model fix beep problem surface android 6 update plugins,Android Version
+fix crash android due accidentally use android api platform release beta3,Android Version
+shop list add new compatibility layer cupcake android package android support v3 literal copy android support v4 change replace android build version sdk_int versionutils getandroidsdklevel modify class fragmentactivity fragmentmanager menucompat class copy v4 v3 consistency remain v4,Android Version
+add support lollipop notification visibility,Android Version
+fix database sync crash api 16 removed use instances display_color replace instances event_color instances calendar_color,Android Version
+update new message notification icon style version android,Other
+integrate turn hotspot feature device add method checkhotspotstate check state hostpot device oreo,Device
+fix not update status icon android prior version,Android Version
+upgrade compat library add back android support,Android Version
+basic compatibility android lollipop remove empty libs folder ignore file,Android Version
+android api level 5 now mark obsolete,Android Version
+bump gradle fix compat android fix crash videooverlayfragment,Android Version
+support android,Android Version
+update target sdk support library version require google,Android Version
+updated ime drawables support 7 inch device,Device
+disabled wal compatibility make work android pie,Android Version
+update android version vector,Android Version
+decrease version name upgrade support library,Android Version
+update sdk version 22 android,Android Version
+use okhttp avoid connection issue android version,Android Version
+switch persistent turn notification false pre oreo android phone may display annoy icon status bar,Android Version
+prevents crash extract rar file device use android 9 pie,Android Version
+fix nasty crash honeycomb tablet mysterious hidden error dialog pre honeycomb phone prior first sync,Android Version
+1 migrate apachehttpclient library compatible api 23 andoid 2 compile api 23 3 still not work android api 19 outofmemory,Android Version
+update target api support version,Android Version
+update versionname versioncode androidmanifest xml workaround,Android Version
+added support custom event color jelly bean,Android Version
+update android sdkversion 26,Android Version
+appcompat library version update,Android Version
+time drop support apis still people use giggity old phone fine android market let publish apks specific api version giggity will continue installable,Android Version
+fix crash icon tinting low android version,Android Version
+fix first launch app crash old android device,Device
+update bitcoin wallet concern crash bluetooth include pixel 2 device,Android Version
+android sdk version update,Android Version
+wxw3 update wxgtk compatible current version,Other
+build update target api lollipop,Android Version
+fix audioplayer crash pre lollipop device,Device
+fix savestate compat old version,Android Version
+android fix android crash device annoy find,Android Version
+fix attachment issue pre lollipop device,Device
+downgrade support library version leak activity loadermanager,Android Version
+use gateway_provider_package extra bypass lumicall gsm select uri fragment lose recent android version,Android Version
+update support version,Android Version
+update version number fix double bullet android nougat,Other
+android update target sdk version,Android Version
+update minimal support version,Android Version
+update target api 24 android,Android Version
+update versioncode api 28,Android Version
+update label use application permission show end user late version android,Android Version
+remove support kitkat lollipop,Android Version
+fix startup crash old android version,Android Version
+update build tool android support library,Android Version
+add oneplus compatibles device,Device
+might fix crash setting fake android api 19 see unable parse textcolortertiary color wild neo x8h plus,Device
+use gson library instead android util jsonreader not available gingerbread device,Android Version
+version change event refreshing now really fast change update mechanism fix refresh button add separate build old device android bugfixes,Device
+update android apps need api 16 remove stale manifest config,Android Version
+external update miniupnpc api version 14,Android Version
+assort android version compatibility fix,Android Version
+fix health bar marshmallow device test donut x86,Android Version
+fix app crash device flash not support,Device
+update galileo device compatibility list,Device
+fix crash stream disconnect android device root,Android Version
+ignore cleartext traffic policy android pie new icon silver platinum update version number,Android Version
+update versionname versioncode androidmanifest xml workaround,Android Version
+fix compatibility warning layout update document change version 1,Other
+com android documentsui oreo update,Android Version
+use modified android ripple background stop animation new android release oreo patched version come,Android Version
+update widget every hour android version jelly_bean_mr1 fix,Android Version
+updated syncthing,Android Version
+fix menu textcolor android 4,Android Version
+update androidx dependency,Android Version
+drop support kitkat minimum lollipop api 21,Android Version
+release build fixed updating version name android manfest next release,Android Version
+update android version,Android Version
+remove honeycomb specific integration android 3 4 device,Android Version
+fix port_android not catch sigsegv catch break lollipop nullpointerexception handling,Android Version
+new version update support library,Android Version
+fix support library version not equal target api version,Android Version
+update support libs late version,Android Version
+android 5 lollipop compatibility,Android Version
+rework background service via android job finally add support new android version respect doze mode stop crash app android 8 fix fix,Android Version
+rename fragmentmainactivity mainactivity fixup connection state not visible anymore mobile size device remove needless fix build android sdk tool 22,Android Version
+support lib upgrade,Android Version
+fix crash folder picker pre kitkat device fix,Device
+fix classnotfound android api level 13 device,Android Version
+front minimum api level now 15 android,Android Version
+theme change also crash honeycomb device fixing,Android Version
+fix crash android nougat device,Device
+feature create default account structure within app android version improve make transaction creation easy change position transfer account input form close improve clicking version information now show changelog dialog improve add option send feedback rating app fix cause app crash import due wrong color code entry,Android Version
+upgrade android compat library,Android Version
+libs update android support v4 revision 18,Android Version
+libs update android support library,Android Version
+update android support library,Android Version
+update gradle late version runtime permission add marshmallow sqlcipher library update,Android Version
+update android version number changelog,Android Version
+update gradle build sdk 29 update external libs drop auto theme option coarse location permission deprecate androidx support,Android Version
+update android version 81,Android Version
+prevent crash android 2,Android Version
+update android sdk android support library version 7,Android Version
+build update build tool support libs version,Android Version
+add sni support android new api fix,Android Version
+update library refrence update minimum_version_for_sharing_api,Android Version
+update android maven plugin new version need new android sdk,Android Version
+android support library update fix viewpager fragment state good,Android Version
+update android version build number,Android Version
+lot fix updated icon fix kitkat crash,Android Version
+update android version build number,Android Version
+update android version build number cleanup import,Android Version
+update versioncode versionname add permission usescleartexttraffic update android support library,Android Version
+target android 28,Android Version
+add android support library v4 update android targetsdk 17,Android Version
+updated support library,Android Version
+update android version,Android Version
+build update android support library version,Android Version
+update support library,Android Version
+full update android compat,Other
+update android support library version 22,Android Version
+update android support library javabitcoindrpcclient,Android Version
+update versionname versioncode androidmanifest xml,Android Version
+update android support library version,Android Version
+update android version,Android Version
+update gradle android sdk version,Android Version
+add new version android support library android sdk,Android Version
+update android version travis,Android Version
+check new android support library current change compatibility,Android Version
+update versionname versioncode androidmanifest xml,Android Version
+build update late android support library,Android Version
+bump android support library version,Android Version
+fix app crash try edit url fix problem android support library v7 19,Android Version
+update android support library,Android Version
+update dependency rxmd android support library,Android Version
+update plugin wake code fix crash oreo device,Android Version
+update androidx dependency,Android Version
+update proguard config new android support library,Android Version
+update android support library dependency sdk version,Android Version
+update android support library late version,Android Version
+fix deprecation introduce android support library update,Android Version
+support super widescreen android device,Device
+target api level 24 android nougat rebuild new build tool allow system layout notification update run android nougat break main activity theming think I like update anyway update version dev next release will first public release android marshmellow nougat previous marshmallow support never publically release will add support new permission model release well probably upgrade build system gradle update theme least default light one seem happen poorly android nougat without mean beginning full time work darshan compute good support batterybot altogether version app seem appropriate,Android Version
+release add support android oreo shutdownanimations,Android Version
+update gradle build tool library version fix kotlin type problem,Android Version
+fix build target sdk 26 update support library version update gradle add support android studio 3 update robototextview master add support change introduce sdk 26 add robototextview gradle plugin exclude unused font,Android Version
+updated support library late version,Android Version
+update android version,Android Version
+update gradle android sdk version,Android Version
+fix deprecation introduce android support library update,Android Version
+update build tool last stable future support android oreo android support library last stable,Android Version
+update support library,Android Version
+updated support library version,Android Version
+upgrade version android support library,Android Version
+support android 10 update build tool travis,Android Version
+detect support per sync,Device
+implemented imgur album thumbnail support new api,Android Version
+include actionbarsherlock provide actionbar functionality across android versions perhaps need drop support vor api level 4 android,Android Version
+update featured graphic fix error pre lollipop device,Device
+fix crash 4 device update new support lib fix,Android Version
+might fix crash setting fake android api 19 see unable parse textcolortertiary color wild neo x8h plus,Android Version
+target android oreo,Android Version
+fix crash resume honeycomb fuck cursor handling need call stophanldingcursor,Android Version
+fix tamil keyboard unit test tablet device,Device
+add android compatibility lib fragment support,Other
+upgrade android api 26 update dependency,Android Version
+ditch foreach test pre api 24 compatibility ide droppings,Android Version
+revert change 589bba472932081e2278444e620bafa48c59e3a6 remove card permission completely min support android version kitkat,Android Version
+repair nextalarmclock update android version nougat,Android Version
+update node jdk android sdk version,Android Version
+fix compatibility android api 19,Android Version
+updated phone 7 inch tablet android screen shot,Device
+fix crash pre lollipop device,Android Version
+update work android api 20 add flag,Android Version
+move api 23 update support libs,Android Version
+fix issue new android install apk,Android Version
+add new hardware profile update jelly bean galaxy nexus omap4460 powervr sgx540 require new set polygon offset value fix flickering shadow new value not match previous profile add new profile profiler check hardware string tuna android version decide profile use,Android Version
+remove attr pre lollipop android can not handle,Android Version
+refactored significant poritions pdf generation stack order good support generalized concept grid measuring rendering inspire lack support multi page pdfs update handle now order acheive general manner also upgrade min sdk version lollipop,Android Version
+updated dependency build tool recent version upgrade compile target android 9,Android Version
+upgrade support library version nougat not fail deprecation lint warning mostly build,Android Version
+ptp connect fix solve android high latency,Android Version
+set target sdk version 28 android pie,Android Version
+upgrade project file late android sdk version adjust manifest configuration support installlocation device relevant,Android Version
+drop support android jelly bean remove obsolete code,Android Version
+change minsdkversion 8 16 exclude android version jelly bean,Android Version
+android fix crash android version 11 due mcamerahelper null,Android Version
+target android 18,Android Version
+update workmanager library use androidx version,Android Version
+integrate android support design library fix toolbar android,Android Version
+update tutorial image include process icon image now scale well different android device,Android Version
+update api version match main app,Android Version
+android config pending travis api 21 support,Android Version
+update 49 fps hack mtk device run oreo remain broken,Android Version
+make toolbar shadow visible pre lollipop android version fix crash delete draft medium attach,Android Version
+target api 24 nougat will not show maybe not support warn use splitscreen,Android Version
+replace getbytes android 9 compatible version,Android Version
+postbuild script improve cross platform compatibility,Other
+wip start support old android version 4,Android Version
+update android support package,Android Version
+add chrome custom tab support drop api 14 support minimum now 15 still android require custom tab lib update dependency,Android Version
+minsdk now 9 remove android api 7 8 specific code update appcompat,Android Version
+fix layout device run low version kitkat,Device
+fix support android permission implement permission management comply android 23 update targetsdkversion 23 appcompat v7 check permission dangerous permission camera audio external storage contact update build notification use set service foreground setlatesteventinfo not anymore available android use reflection runtime address early sdks version,Android Version
+use holo theme field honeycomb,Android Version
+version jelly bean support maybe,Android Version
+fix crash vector drawables old android version,Android Version
+update tool plugin rc1 android studio 1 support,Android Version
+not crash device upgrade android 9,Android Version
+back api 16 avoid problem android 4 update google play description read view budget,Android Version
+fix incompatibility related crash hiding medium preview option select device api level 19,Android Version
+ensure speed dial clickable pre android 5 device,Android Version
+simpledateformat use illegal format specifier cause crash android device,Android Version
+use deprecate method compatible support api level,Android Version
+add vector support old device report crash issue,Device
+plt 5598 android back button support,Android Version
+avoid crash due setelevation not support device api 21,Android Version
+update update build current android sdk version,Android Version
+update android sdk version,Android Version
+fix notification api piority android version 8,Android Version
+fix crash phone,Other
+fix old android version crash due strange layout constraint,Android Version
+android notification support,Android Version
+fix crash cause api upgrade,Android Version
+update tool plugin rc1 android studio 1 support,Android Version
+updated build tool compatibility version,Other
+date take stuff display real date detail exif value sort base date provide exif available try fix date feature will set lastmodifieddate exif date not work device android issue,Android Version
+fix app crash opening android oreo,Android Version
+add compatibily ldpi device like rogers x10 mini,Device
+use android tint style add host fab icon instead android tintmode support apis 21,Android Version
+remove arabic reshaper since support android 4,Android Version
+swap notification icon compatible android set accent color notification,Android Version
+droid fix crash startup device,Device
+add support mobile device width 600dip,Device
+tag android version support different contact book behavior android 19,Android Version
+update circleci config android support,Android Version
+bump version new beta crash handling support different screen size,Device
+fredricho fix uploading medium post gingerbread device crash,Android Version
+not break compatibility old aidl api,Android Version
+tax fix crash tabfragment device android marshmallow,Device
+remove maxsdkversion support android 10 android resizeableactivity true remove letterbox 21 9 screen change versioncode format,Android Version
+kindle update kindle support device list,Device
+update androidmanifest version code 64 rc1,Android Version
+update git submodule lollipop support,Android Version
+raise minimum android api level 8 froyo 14,Android Version
+roll back stable version android support library,Android Version
+fix crash api 21 scheduledlibraryupdate extends jobservice require api 21 cause old version crash startup whole scheduledlibraryupdate class not exist old device,Android Version
+new version add support device,Device
+update android longer need internal apis,Android Version
+temporarily remove support android auto update get reject google play miss voice support,Android Version
+first step toward android marshmellow support compile sdk 23 fix error cause upgrade,Android Version
+enable autocomplete none android device,Android Version
+google android sdk support library update version 23 wlmmanager remove dummycursor override new method setextras,Android Version
+remove obsolete clang android compatibility hack,Android Version
+update build script symbian os9 device,Device
+upgrade support library version nougat not fail deprecation lint warning mostly build,Android Version
+make spinner work android version,Android Version
+target android not require bump app number next release update plugins,Android Version
+update busybox late toolchain support nougat remove build,Android Version
+fix crash lollipop,Android Version
+update support new gradle android studio version,Android Version
+fix nasty crash honeycomb tablet mysterious hidden error dialog pre honeycomb phone prior first sync,Android Version
+fix crash google apis not ready,Android Version
+fix cause crash api 7 ughhhhhhhh support api 7,Android Version
+fix issue setdisplayzoomcontrols can call device api 11 not support api 11,Android Version
+add compatibility library pre android devices,Android Version
+add support api 19 kitkat,Android Version
+implement really hacky workaround another crash samsung device android 9,Android Version
+nsd temporarily disable android kitkat api 19 due cause occasional reboots,Android Version
+fix crash pre lollipop device rotate export,Android Version
+update pysol desktop unix desktop integration,Other
+update dependency api 28,Android Version
+support pocketbook firmware version 5,Device
+add initial support rooted device run lollipop selinux set enforce really improve future since modify policy untrusted_app,Android Version
+fix crash new support lib,Android Version
+deactivate holiday_short holiday lollipop wait android update,Android Version
+update target android pie,Android Version
+update android target version,Android Version
+gingerbread use compat library version popupmenu,Android Version
+update target api fix minor warning bump version,Android Version
+update build use internal reference android compatibility library,Android Version
+cmake fix compatibility version,Android Version
+update minsdk version android 8,Android Version
+widen device support api 17 issue,Android Version
+fix crash open setting device api level 10 implement delete account transaction device api level 10 close,Android Version
+android 8 initial support fix updater not install update,Android Version
+fix crash initialization device,Device
+mt32 update mt32 emulator adapt new api,Android Version
+fix race condition managerfactory http api get banner restore show json api fix compatability early phone,Device
+upgraded build tool version gradle update support abi order fix build error late android studio,Android Version
+android upgrade ndk api level 9,Android Version
+fix android fix global jni reference fix crash target api 15,Android Version
+good support armhf device run android,Android Version
+free update translation begin honeycomb support,Android Version
+update android build tool version fixed compatibility issue,Android Version
+try add basic android support,Android Version
+updated version name build android allow tablet size screen also add external storage write permission come require sdk,Android Version
+added support pre lollipop device,Android Version
+update support dive computer,Device
+fix binarydictionary java lead crash dictionary use 64bit device enable multi dex increase heap size also release build,Device
+issue app crash load drawer kitkat layout problem icon text day prayer info phone rtl lang set,Android Version
+code cleaning minimal android version kitkat,Android Version
+list device remove replace minsdk version change detox version detox android show warning,Other
+android fix crash startup version,Android Version
+fix fix crash android lollipop marshmallow,Android Version
+android 9 pie compatibility,Android Version
+support android marshmallow permission change,Android Version
+update rice video api version difference new api video render callback function now take boolean int parameter specify whether video frame drawn since last time render callback call allow take screenshots without screen display text,Android Version
+add multiwindow support samsung device,Device
+api level 10 fix,Android Version
+reorganize drawable large xlarge device not,Device
+rely notificationchannel setting android oreo device,Android Version
+fix ircchoosertargetservice crash pre device,Android Version
+update yandex metrica fix crash android nougat,Android Version
+project upgrade fork compactcalendar horizontalcalendar materialsearchbar version use androidx library,Android Version
+add check api 16 item show api restriction,Android Version
+english russian translation update initial help screen scrollable now compatible android,Android Version
+bugfix service crash android 4 device,Android Version
+3491c877 queue pointertracker support key roll shift modifier gingerbread,Android Version
+catch exception possibly incompatible samsung task version galaxy s3,Device
+need updated version util diff actually work android,Android Version
+update common min android version 5 adapter change,Android Version
+update configure support openal mac well original script break compatibility,Other
+cache currently select item notification wizard old version android pre seemingly not update properly otherwise,Android Version
+change version name update late sdk add support android,Android Version
+android upgrade newest build tools version,Android Version
+update build tool gradle new android studio,Android Version
+create gingerbread friendly legacy observation import inefficient will work small set,Android Version
+update android api version,Android Version
+fix android make compatible android api 5,Android Version
+limit network workaround android 6 early,Android Version
+add support adaptive resolution change enable default device claim support kitkat decoder know okay jcodec allow proper sps fixups without hardcoded offset,Android Version
+allow gles3 hardware support fsaa need gui option android device,Android Version
+update api level 19 android kitkat,Android Version
+androidsdl added support x86_64 platform,Other
+update libdivecomputer support aqualung i200c,Other
+update common min android version 5 adapter change,Android Version
+increase min sdk version okhttp not support android not,Android Version
+update blackberry10 update deprecated function add support portrait qwerty device like q10,Device
+fix android compatibility updated test name,Android Version
+hide device address can not support want keep feature consistent across platform,Other
+test update android version 25,Android Version
+fix support android marshmellow permission implement permission management comply android marshmellow 23 update targetsdkversion 23 appcompat v7 check permission dangerous permission camera audio external storage contact update build notification use set service foreground setlatesteventinfo not anymore available android marshmellow use reflection runtime address early sdks version,Android Version
+upgraded travis use android api 25,Android Version
+update targetsdkversion android fix app version 25 crash,Android Version
+app now support android,Android Version
+upgraded country capitals anki version 43 compatible ankidroid,Other
+fix add support android oreo new requestaudiofocus api,Android Version
+fix support device api 21 attr inside drawable resource,Android Version
+fix pre lollipop device svg support,Android Version
+use froyo compatible api call display class,Android Version
+circleci upgrade sdk version 29 android,Android Version
+set android pie target version,Android Version
+bump version high still support api 9,Android Version
+update android test app use wider viewfinder save image pngs instead jpegs work phone without shutter button,Device
+update target android version,Android Version
+prevent possible crash app search,Android Version
+version bump update target api,Android Version
+safeguard crash device camera,Device
+update android 6 api 23 update miss module,Android Version
+version 15 android versioncode 5 fix access_wifi_state permission require discovery device add manifest add startup check permission,Device
+upgrade android api 26 update dependency,Android Version
+add ble functionality device android,Android Version
+fix navigationview crash due support library upgrade,Android Version
+change compile sdk version android nougat,Android Version
+update target compatibility android plugin,Other
+compile sdk version 23 support library,Android Version
+obscure miui related crash pre lollipop device fix,Android Version
+fix medium store compatibility previous version android,Android Version
+update android api 25 change min version 15,Android Version
+update shippable use late android apis,Android Version
+fix crash android passcode lock not valid app lock not support,Android Version
+fix ondissmisslistener device not support builder,Android Version
+add support android device not support saf,Android Version
+bump 1 android 1 fix crash modern device bump libs,Device
+android sony t1 home screen integration fix michael berganovsky,Device
+update network support android,Android Version
+fix notification api piority android version 8,Android Version
+update android build tool version,Android Version
+support device start android,Android Version
+add workaround crash pre api 11 undo action view will aloow themeing debuggin continue disables redo functionality device,Android Version
+drop support obsolete android eclair target jelly bean,Android Version
+added support androidx,Android Version
+increase mimimum android version api level 9 require opensles,Android Version
+avoid transitive dep android compatibility v13,Android Version
+fix crash open supporte card jelly bean,Android Version
+fix auto start issue android oreo,Android Version
+fix crash phone less 4 profile,Device
+remove hugo plugin use obsolete api longer develop,Android Version
+add api version android,Android Version
+added support old device,Device
+fix crash device lollipop,Android Version
+fix normalization gauss smooth intent filter marshmallow device update view switch preloaded tab float action button not top device,Android Version
+add helper class access contact use old contact api 3 4 device new api 5 device place access contact update use helper class,Android Version
+fix resolution change linux previously resolution change old delete old device still actively deliver event delete cause crash now change resolution set flag resolution change will apply next update device not busy anymore,Other
+remove ant entry preference device not support ant,Device
+remove workarounds qualcomm device not support anymore,Device
+support performnewintents android mr1,Android Version
+fix android not able update database due row version conflict,Android Version
+fix 3 use option 1a describe github issue note remove support android api level 3 device order support runtime testing platform version use either systemclock elapsedrealtimenanos location getelapsedrealtimenanos calculate ttff android use system currenttimemillis location gettime android version support android will need maintain new two apks separate will need upload google play note version number not bump since least one edit will likely release along,Android Version
+big fix run apk miss view manifest clean android egl context creation fit line dolphin work break input moment well change memarena 768mb 64mb allow 1gb phone potentially run rename egl_x11 back egl since bring soreau change easily allow different platform like wayland android not quite code need clean still,Device
+update android support library version,Android Version
+fix crash kitkat loading drawables downgrade gradle appcompat version,Android Version
+modify version rest patch patch add support atari platform,Other
+push minimum andorid version api level 15 remove actionbarsherlock related resource fix also fix mostly contextual action bar,Android Version
+update android sdk build tool version,Android Version
+upgrade target build android oreo,Android Version
+fix crash pre lollipop device remove account,Device
+update android kitkat,Android Version
+mmajor update add location permission marshmallow fix ability select gps device fix leak intent receiver,Android Version
+fix item list scroll update data temporary workaround keep new version androidx paging release right fix,Android Version
+update not work gingerbread fail string compare,Android Version
+fix crash init android 8,Android Version
+fix crash android marshmallow add write permission check,Android Version
+fix not show samsung device not support sms provider private api method ugh private apis really wish stop use one,Device
+support android api 29,Android Version
+remove support firefox android windows phone,Other
+fix problem run device api version 11,Android Version
+fix android app not update self due security change introduce api 24,Android Version
+fix cause habdroid crash android platform,Android Version
+support old device android,Android Version
+add android 10 support fix mispellings,Android Version
+fix crash boot android oreo,Android Version
+finalize release fix crash old device due compatibility vector asset new logo crash open zip file not come ble device,Device
+improved style android version pre lollipop,Android Version
+update support libs,Android Version
+code update update hookzz library runtime fix support dlopen hook not support nougat yet,Android Version
+remove check bluetooth device support audio service every bluetooth device will list samsung phone not support reporitng audio service device ever list,Device
+fix crash bluetooth device find formatting issue slide,Device
+change minimum version android sdkversion 14,Android Version
+fix make app crash android version htc device,Device
+drop support api 7 remove api specific sync handler sync handler preference deal minute convert second need wrote manage auto sync ensure correctly show change make via system setting track sync period include disabled state sync period exclude disabled state last 0 sync period account set not sync via sync handler sync disable least one account set sync sync enable user enable account loginactivity enable sync match master setting disable account disable syncing,Android Version
+android fix report crash,Android Version
+update notification builder accord oreo api,Android Version
+huawei lollipop firmware not support mediastyle,Android Version
+upgrade gradle plugin target sdk android nougat,Android Version
+fix crashing android x86 version,Android Version
+upgrade android support library,Android Version
+android 4 migration minimum device api 16 now test pass,Android Version
+fix 8 kitkat crash setting,Android Version
+first attempt show event dialog split screen style tablet device,Device
+fix 6 crash edit card android version,Android Version
+new ipad pro compatibility wip,Other
+fix app crash gingerbread version due incompatible style navigation drawer xml,Android Version
+add support sdl sdl separate keycodes scancodes api new name scancodes can therefore easy backported old name conflict still exist keycodes simple compatible wrapper enough allow coexistense sdl sdl code,Other
+update android build tool version,Android Version
+update external dependency late compatible version,Other
+begin honeycomb support,Android Version
+core fix make support_glib also work non win32 platform,Other
+linux enable android codecs linux arm device amlogic,Other
+update newest sdk version remove warning test gradlefile,Android Version
+update androidx version,Android Version
+basic compatibility android lollipop mid autumn cleaning,Android Version
+2976 fix app crash share mp3 thing,Other
+update support library version,Android Version
+android support library version update,Android Version
+crash fix device due android,Android Version
+fix adaptive icon work old android version fixed cmakelists build script update dependency,Android Version
+update android support lib,Android Version
+revert change make compatible late version android studio,Android Version
+temporary android crashfix,Android Version
+android support library version update,Android Version
+updated mina ftp server ssh server unfortunately ssh server 1 require java 7 java nio file can not use android updated build tool sdk version see issue,Android Version
+change api dependency use late stable support library annotation,Android Version
+update permissionsdispatcher version fixed compatibility issue,Other
+split various apps gci task darriel update menu shortcut avoid conflict android shortcut fix issue 436 new shortcut,Android Version
+gradle upgrade lollipop support,Android Version
+added heart rate check support device not dedicate heart rate sensor accelerometer senstivity set will not show device dedicate step counter sensor add new fallback icon news listview json not return image url fix launcher icon android device,Device
+update gradle version android studio,Android Version
+fix opening choose action activity kitkat device crash app cause proguard,Android Version
+remove legacy api crash device,Android Version
+gradle android library version update,Android Version
+fix android view inflateexception pre lollipop device,Android Version
+hdpi icon new icon compatible android,Android Version
+update language code android supported one,Android Version
+target android jelly bean,Android Version
+updated target version android api 18,Android Version
+androidhacks specify api 21 support,Android Version
+init multithread support linux fix linux crash issue,Other
+update android api level 29,Android Version
+update android oreo compatability,Android Version
+update buildtoolsversion minimum support android gradle plugin,Android Version
+fix event display device show usually old device outdated version android,Device
+fix stagefright fixup kitkat remove hardcoded api limitation,Android Version
+copy compatibility fix device not backupmanager,Device
+fix widget black text black background new android version,Android Version
+add ripple touch feedback device run android 5,Android Version
+fix android keyboard crash hdpi device,Android Version
+exclude printing android not support not think platform support,Android Version
+consolidate android luminancesource class one file either device can handle file app will not work android platform require every device support yuv420sp camera preview buffer also let two similar format sneak compatibility also remove ability convert luminancesource data argb image not use,Android Version
+fix compatibility new kanboard version api,Android Version
+fix error opened catrobat photo now support old android version,Android Version
+android fix start crash version 4,Android Version
+view constructor crash fix old android version,Android Version
+new build target 18 android version,Android Version
+fix issue nullpointerexception fix issue feed icon not work http basic auth add option disable feed icon fix progressbar appear open feed fix issue fix gradle wrapper remove lot unnecessary compatibility library external resource update internal stuff use library androidx fix lot lint warning remove deprecate api usage fix minor security issue remove unused part,Other
+use bundleargs dialog instead name params ensure proper recovery instance state save fix android compat bundle putcharsequencearray api v8,Android Version
+support kfm100s device,Device
+android include new version support library contain bugfixes,Android Version
+remove unnecessary sdk version check api 21,Android Version
+update google drive api attempt fix npe userrecoverableauthexception getintent,Android Version
+remove support lib gradle provide date version,Android Version
+android pie support,Android Version
+airtunes fix volume range airtunes affect windows platform not support volume control yet streamvolume fix,Other
+use new net_set_address net_set_af api method implement prefer_ipv6 functionality,Android Version
+android ensure required dependency actually export along everything else android version build without support libs will not export emulator crash upon execute,Android Version
+compat fix old android version,Android Version
+compilesdk target update 25 support lib update minsdk bump 9 gradle version update studio,Android Version
+android enable java compatibility support,Android Version
+crash fix one npe see sony device svg drawable parse exception see micromax phone,Device
+remove statement support old version android not support anymore,Android Version
+fix crash android version not support file topath,Android Version
+fix method not exist crash regard getordefault old android version,Android Version
+complete fix issue now show always scrollbars content one fit screen work old version also without crash also include standard android image not available old version,Android Version
+update android toolchain remove mips support,Android Version
+libs remove unneeded library android support v4 guava r09,Android Version
+bump minimum support android version add actionbarsherlock dep,Android Version
+attempt fix weird crash obscure device,Device
+increase mimimum android version api level 9 require opensles,Android Version
+fix markdown crash pre gingerbread device,Device
+show opengl opengl android depend device support reduces confusion user,Android Version
+fix lint update android_support_version,Android Version
+fix possible crash phone,Device
+update main icon thanks rajesh handa update sdk min version 3 android next version will android,Android Version
+fix cause habdroid crash android platform,Android Version
+update contact function use eclair uris device run getpersonidfromphonenumber getpersonname opencontactphotoinputstream,Android Version
+add holo light button theme app look holo ish even gingerbread device,Android Version
+fix crash press back map android version,Android Version
+added late apple device allow retina support,Device
+update android maven plugin version,Android Version
+updated dependency android,Android Version
+update android support common compress library,Android Version
+update android gradle plugin,Android Version
+upgrade android studio version,Android Version
+replace java nio file apis cause crash android,Android Version
+fix android build use hardcoded path data instead use one fetch android api init fix android miss version information,Android Version
+adjust json version prevent crash old android,Android Version
+android fix possible crash virtual mouse button click,Android Version
+add support save toc cache android file system,Android Version
+obscure miui related crash pre lollipop device fix,Android Version
+update common kotlin gradle min android version 5,Android Version
+update source proper support android 4 instead android also change headerbar style,Android Version
+shop list safe update classpath please use late version eclipse indigo android sdk can use classpath,Android Version
+update mapsforge api android pie,Android Version
+create bash script build application android device use terminal ide application terminal ide not aidl tool yes genaidl directory pre generate java file add,Android Version
+extend min support android api 24 android,Android Version
+webcmd row crash application tablet device,Device
+fix prevent actionbar populate reader android 2,Android Version
+support xep 0092 software version,Other
+update gradle android plugin gradle,Android Version
+support android studio version gradle,Android Version
+update android gradle build plugin,Android Version
+fix extension installer old android version fix deadlock device 1 2 core,Android Version
+update code min sdk 21 android lollipop,Android Version
+simplify storage apis use use java classic way old android version use storage access framework new android version android lollipop later change external card write permission add option ask save path download warn user save path not define happen first newpipe run android lollipop later,Android Version
+text color compatibility android nougat,Android Version
+build update late android studio,Android Version
+fix vibration android,Android Version
+test fix issue android beta release,Android Version
+fix crash old android versions,Android Version
+upgrade gradle version android studio 3 fix lint warning,Android Version
+replace usage fragmentmanager loader version support library compatibility since deprecate implicitly seem fix since old library version not necessary anymore not know animation work though,Other
+fix last api compatibility error remove file android studio add,Android Version
+fix image scaling android version update,Android Version
+update android studio upgrade,Android Version
+honeycomb crash actionproviders not exist,Android Version
+fix grandle android studio,Android Version
+fix ipad share crash updated version,Other
+update android studio file,Android Version
+fix crash relate android lollipop due api 23 minimum,Android Version
+added old android lockpattern dependency new version update test,Android Version
+target android pie,Android Version
+update android manifest version,Android Version
+add back support pre honeycomb device,Android Version
+upgrade android studio version readme,Android Version
+update androidx dependent play service firebase version,Android Version
+upgrade android studio,Android Version
+android now target sdk version 24 preparation release,Android Version
+migrate support library architecture component androidx,Android Version
+split various apps update classpath work eclipse indigo android sdk installation require something else classpath order work please upgrade eclipse android still not help let discuss issue forum see also,Android Version
+update version android support,Android Version
+fix add android autoremovefromrecents true dialog activity,Android Version
+add android support update libs,Android Version
+correct android support version,Android Version
+update zxing android integration library version,Android Version
+fix android view inflateexception pre lollipop device,Android Version
+hide map froyo since mapbox not support,Android Version
+android bump minimum api version 17 set target api 21 also remove api 17 check obsolete omxlibname,Android Version
+added support api level 19 android,Android Version
+upgrade piwik fix use android support bix build target,Android Version
+set compat vector usage version kitkat,Android Version
+circleci upgrade sdk version 29 android,Android Version
+update android support library version,Android Version
+make android new min supported android version,Android Version
+fix crash android 10 device,Android Version
+travis update android api tool travis script,Android Version
+fix crash german device,Device
+update tool nougat,Android Version
+fix android api 15 remove synchronize,Android Version
+com android dialer add oreo support,Android Version
+fix crash add widget well widget layout issue new material theme control service start android lolliopo fix,Android Version
+update target api 16 android,Android Version
+update fix gifs android 7,Android Version
+support consistent dialog style different api device,Device
+fix crash nexus 5 android,Android Version
+reduce possibility crash api10 emulator,Android Version
+fix oreo play 2 sound every notification use another notification channel silence notification update boot system reply button receive message hotlist sync fix group notification not update child cancel,Android Version
+fix compatibility old version android,Android Version
+push target sdk version 13 android,Android Version
+set target android 21 lollipop update internal engine stockfish 5 add pie executables android non pie executables,Android Version
+upgrade api module android 28 fix deprecation,Android Version
+upgraded travis config match android build tool version,Android Version
+constant decrease min api jelly_bean_mr1 kitkat,Android Version
+improve pick mode compatibility old android version,Android Version
+update logic set wallpaper desire size set desire size wallpaper change pre kitkat remove wallpaper change receiver manifest remove multi process wallpaper share prefs kitkat,Android Version
+update build gradle support late android build tool,Android Version
+fix issue app crash android 6,Android Version
+update search web result show author switch manifest try allow device,Device
+stable build project update work eclipse helios project update target api level 5 android strings xml update include formatted false aapt now stricted validation,Android Version
+reduce minimum android version api 11 honeycomb,Android Version
+already eol make minimum support version,Other
+add proper android nougat multiwindow support,Android Version
+graphview low level api compatible android scale will disable,Android Version
+android fix crash 3 device add title display vnc activity,Android Version
+fix legend pre lollipop device,Android Version
+remove support api level 16 android,Android Version
+also update android sdk version travis,Android Version
+support android,Android Version
+update android code support ndk 7,Android Version
+fix extension installer old android version fix deadlock device 1 2 core,Android Version
+update dropbox sdk gson jar upgrade targetframework android 9,Android Version
+update sdk version 22 android,Android Version
+optimize delegate phoneinfo fix android,Android Version
+fix error screen transition not normal android 9 pie version,Android Version
+window mobile 5 device support require late sdl windows port available updated week use old mouse code avoid scaler problem fix release toolbar double tap quickly top screen comply new gui height,Other
+project api 9,Android Version
+updated structure android sdk version 14,Android Version
+gingerbread update manifest build android api level 10,Android Version
+initial update android sdk m5 support,Android Version
+fix issue medium file get names not support android prepare kitkat support fix layout issue control button,Android Version
+update support library last version support api 9,Android Version
+matrix android sdk update,Android Version
+crash android api 9,Android Version
+version change due android studio upgrade,Android Version
+updated robotium version android jelly bean support,Android Version
+hopefully fix compat pre version android,Android Version
+revert minsdkversion 7 eclair update menu icon activity bar icon android 7 relative,Android Version
+fix app crash android 5 6 device,Android Version
+backends fix compilation mac without translation support,Other
+emurator andtoid 10 not support upgrade android 15,Android Version
+fix android text type jump search box color,Android Version
+fix compatibility old android version,Android Version
+androidmanifest xml change versioncode format contain min support sdk,Android Version
+added support android marshmallow,Android Version
+fix custom app language selection issue across various android version retain custom language selection across application device run api 24 instantly apply language selection update view device run api 23 less change app language now consistent across version android update title mediabrowseractivity use localized string,Android Version
+upgrade android sdk version 22,Android Version
+set borderless background pre lollipop device will not crash,Android Version
+support legacy device,Device
+remove deprecate support version kitkat minimum,Android Version
+update gradle replaced compile implementation dependency create new product dimension android fix start crash affect android,Android Version
+upgrade android api level 27,Android Version
+upgrade gradle kotlin due android studio upgrade,Android Version
+travis update built tools android platform tools 25,Android Version
+use new notification compat combination medium style can use api lollipop also close button notification not neet manual one,Android Version
+work except android version,Android Version
+update recyclerview code v27 compatibility,Android Version
+build update target api 21 android 5 support,Android Version
+minimum api 4 support build version check,Android Version
+walletapplication low android version requirement full sync,Android Version
+make app pre froyo compatible remove ability xml stuff available froyo,Other
+fix build error aapt exe upgrade late version build tool 21,Other
+workaround crash user experience update android 6 android 7,Android Version
+android fix save load state menu non device,Device
+set notification channel platform api 26 oreo later,Android Version
+added support immersive mode kitkat device rehash,Android Version
+convert android client test app use android sdk use efficient preview frame mechanism now require device run cupcake new version platform change temporarily remove proguard step sean add back,Android Version
+fix crash take picture user avatar old device,Device
+update zxingtest work 3 mostly remove camera capture bit now can come back android update can clone update android integration good api ability specify package now zxingtest use integration code update android 2 report camera params slightly well form also fix android 2 issue related intent integration stuff leave recent change,Android Version
+restore android 10 api compatibility,Android Version
+cram review now work update schedule algorithm handle cram easily fix api level compatability issue low still need get compatible,Android Version
+fix ninemanga error add fileprovider android nougat great update,Android Version
+impend arrival android 5 miss functionality platform cease attempt support not work anyway,Android Version
+use git submodule refer external library update android lockpattern late version,Android Version
+android drop minimum android version support since bunch people ask,Android Version
+fix crash vector drawables old android version,Android Version
+controllerinterface allow hotplug callback unregistered not reload entire config ini file hotplug just update control reference fix crash shutdown android,Android Version
+add support gatt ble device android,Device
+require gingerbread sdk version 10,Android Version
+back port change use new android 2 apis remove deprecation now android eclair android 7 minimum platform level call accordingly,Android Version
+android fix small crash issue,Android Version
+min android version 7 8 leaflet map display problem api 7,Android Version
+fix android oreo crash something not play within 5 second startup,Android Version
+update android sdk version 21,Android Version
+sherlock fix crash load game launcher,Other
+fix android fix crash build old ant version,Android Version
+fix abug cause app crash device,Device
+build target api 28 android pie support,Android Version
+updated library api 24 warn api 24 sync translation,Android Version
+change compile sdk version android nougat,Android Version
+support android version earlier fix issue 191,Android Version
+fix monospace android lollipop,Android Version
+fix android drop support api level 19,Android Version
+fix preference summary not update kitkat device,Android Version
+remove obsolete android compatibility,Android Version
+define version number kitkat use test kitkat device,Android Version
+manifest target api version 18 android,Android Version
+require android 6 marshmallow,Android Version
+fix pom xml correct android api version 15 instead 17 brought thomas fix activity leak window originally add openhabstartupactivity cause incorrect progress dialog close fix malformed url exception normalizeurl openhabstartupactivity,Android Version
+create barcode scanner beta 1 donut add support action_send intent encode contact make vcard parse little less strict updated help fix minor issue remove vestigial intent support use old package name,Android Version
+added support encode multiple email address phone number use new constant add contact app android,Android Version
+update project target api level 21 android 5 main activity list now use black background,Android Version
+project add support openstud update search bar,Other
+update target android version not affect compatibility old version,Android Version
+clear codec internal format keep api compatible,Android Version
+android maven plugin version update old version fail late android sdk,Android Version
+update guava android,Android Version
+fix crash pre honeycomb device,Android Version
+completely remove deprecate http api,Android Version
+fix crash send photo nougat improve compose type speed update user agent,Android Version
+drop support api level 8 android,Android Version
+fix slew api device compatibility issue,Device
+update android build tool support java 8,Other
+addon constructor will now check version xbmc python api script dependent upon will apply backward compatibility hack version less otherwise will assume script update eden will not try get addon xml file recovery failed addon instantiation,Other
+update list incompatible compatible device,Device
+introduce interface decouple platform specific api class require also 1 put service foreground prevent kill system 2 fix prevented mytracks run pre eclair device,Android Version
+support shortcut api level 26 android,Android Version
+maybe resolve crash android device show quest landscape mode,Android Version
+fix view pager view froyo gingerbread phone,Android Version
+update workmanager rc01 compatibility androidx,Android Version
+extend version alert message deprecated android version,Android Version
+fix access bluetooth conversion function via reflection fail pre android 10 device not sure might also just different implementation regardless android version class based conversion function move bluetooth implementation separate package,Android Version
+introduce new package resolution android compatibility need,Android Version
+provide backwards compatibility notification system device android,Android Version
+fix crash pre lollipop device due vector drawable issue,Android Version
+update readme add heads notification support android 5 update medium index receive file,Android Version
+still support add compat layer not crash old device,Device
+android remove ouya platform not meet minimal android api,Other
+add additional logging synchronization fix npe synchronization device api low 13,Android Version
+fixup num_ref_frames sps qualcomm device hopefully fix crashing video galaxy s3 android,Device
+remove old third party shim backwards compatibility replace correspond material support library number visual issue can correct subsequent diff keep self contained finish convert tab space remove old eclipse file,Other
+linuxinputdevice add support multi touch device,Device
+version bugfix start setting activity android version honeycomb 13,Android Version
+nclientv2 add option show 3 line portrait fix update chinese translation fix issue android 10,Android Version
+add zoom control back pinch zoom not work android phone,Other
+sync server reply oldversion error status tell user upgrade ankidroid late version,Other
+browser add compatibility reflection pre android device,Device
+move back towards pass argument via fragment solely reduce crash likelihood android restore thing crash,Android Version
+updated phone support,Device
+fix keepright api state not set not reopen fix ssl relate happen device run android nougat,Android Version
+fix crash tablayout android 4 new version material component,Android Version
+added support bitcoin uris implement,Other
+full implementation dark theme supported version android,Android Version
+rebase onto late dev update appcompat dependency use androidx,Android Version
+cgameclient fix crash close standalone game,Other
+2551 crash scan android,Android Version
+remove bluetooth backport make necessary change get work modern android phone motorola mb525 android,Device
+use old android text clipboardmanager api support old device,Device
+add ccache support android openh264 build,Android Version
+update dependency gradle version build scripts wrapper fix lint issue raise minimum api 14,Android Version
+fix rare crash jolla device,Device
+fix crash android cause unsupported apis headertransformer design run sdk 14 use actionbarsherlock actionbarcompat use appropriate provide extra,Android Version
+add support xlarge screen handle tablet disable compatibility mode improve layout share screen big screen minor cleanup bump version final,Device
+fix crash samsung device android 9 fix problem bring keyboard,Android Version
+update version versioncode 316 remove dependency imcompatible droid,Android Version
+fix disconnect gps android oreo libs tool update,Android Version
+prefer ipv4 ipv6 ipv6 fixes issue android emulator,Android Version
+start support qbittorrent api deprecation low version,Other
+android version old not support certain unicode character code update support device,Android Version
+fix crash relate android lollipop due api 23 minimum,Android Version
+actually work incorporate new library android marshmellow support however not use public api I will get version work public api soon,Android Version
+build update target api 23 android support,Android Version
+address marquee text android api 23 need lollipop mr1 device confirm api 22 fix,Android Version
+raise minimum android api level 19 kitkat,Android Version
+fix okhttp crash android 5,Android Version
+implement download charge device run api 21 fix,Android Version
+add debug log device compatibility,Device
+bump target sdk version api 21 android,Android Version
+remove erroneous flag cause crash android 4 device,Android Version
+update android version,Android Version
+update common min android version 5 adapter change,Android Version
+add android support update libs,Android Version
+change make compatible late version android studio,Android Version
+switch parallaction back single gameid compatible make use new advanceddetector feature,Other
+extend min support android api 24 android,Android Version
+fix beurer device name comparison update internal openscale version code 21,Device
+fix android drop support api level 19,Android Version
+bump version beta 1 fix two crash low dpi device view add support apps card froyo updated sdk 8 tweak font size update new page,Device
+document android elevation api compatibility,Android Version
+androidmanifest support api level 22,Android Version
+support api level 19 kitkat,Android Version
+android minimum requirement now gingerbread upgrade gcc,Android Version
+updated target version android api 19,Android Version
+android app need use can not use java 8 feature support api 24,Android Version
+android attempt work around htc fail,Device
+build api level 19 kitkat update version number organize import,Android Version
+fix event display device show usually old device outdated version android,Device
+low default sdk flaw mismatch runtime header lead crash use mysql smb gotham will last version sdk ios support,Other
+add support android storage access mean able save file card many change can not even count,Android Version
+use new contact api android device additional code match phonetic name,Android Version
+droid bump target api 26 define androidmanifest november 2018 every update playstore must least target api 26 can not submit update not know will work will just deal fallout,Android Version
+split various apps update android api level 15,Android Version
+make app multidex support fileprovider android,Other
+fix crash old phone kitkat,Android Version
+add proguard support note proguard currently include android sdk buggy create apk crash startup proguard work see removed markdown jar not use include library dependency jar not use runtime application refer library application use therefore require proguard bump android target 9 reflection reference class android version 9,Other
+restore compatibility android,Android Version
+update sdk 28 remove sdk 25 compat support,Other
+fix crash stop playback notification audio output change detection headphone unplug android support untested,Android Version
+update api version android 5,Android Version
+fix crash selection due wrong cast class compat api build v21 due crash,Android Version
+hopefully fix compat pre version android,Android Version
+remove class compatibility notification android api level less 14 not support,Android Version
+update acra version fixed compatibility issue,Other
+lower minimum api level 10 include appcompat v7 compatibility library start graphic refactoring aim kitkat style,Android Version
+update support library also fix background issue fabs pre android device,Android Version
+imp 70 imp 71 imp 81 imp 82 fix not android buffer,Android Version
+handle backspace button multibyte input lead crash android device,Device
+add support mips device,Device
+fix crash kitkat open sidebar,Android Version
+project add support android api 23,Android Version
+start work android support,Android Version
+downgrade okhttp android 4,Android Version
+update project api level 20 android,Android Version
+support android marshmallow permission system,Android Version
+fix crash build sdk6 videotoolbox change need fixup internal path reflect actual location device,Other
+generate png icon compatibility old android version,Android Version
+fix make app crash android version htc device,Device
+lower min support android version 14,Android Version
+fix taskedit page crashing android old,Android Version
+videoactivity add blind fix video not pause android,Android Version
+fix port_android not tint pre api 17 tint navigation status bar introduce a3e9e7 make whole screen tint gingerbread api level 9 device actual tint code handleresize anyway activate api 17 reason create navigationtintview statustintview api 17,Android Version
+fix support android permission implement permission management comply android 23 update targetsdkversion 23 appcompat v7 check permission dangerous permission camera audio external storage contact update build notification use set service foreground setlatesteventinfo not anymore available android use reflection runtime address early sdks version,Android Version
+fix header height android version api 19,Android Version
+target android api 24 support multi window mode,Android Version
+improve compatibility not crash api 16 anymore,Android Version
+fix crash android version lollipop early due unsupported way vector drawable icon assign radio button,Android Version
+introduce support openhab json rest api versionname 3,Android Version
+fix compatibility device app break gingerbread,Android Version
+fix articlefragment not attach activity anymore fix problem samsung device run android,Android Version
+fix use post eclair api eclair device,Android Version
+fix crash try bring menu make shortcut desktop fix ctrl key ctrl support,Device
+updated target api 11 android,Android Version
+bundle sqlite fix tachiyomi not work kitkat make backup use version recommend everything work,Android Version
+profile make sure null value otherwise profile equals may throw npe simplehttpclient certain android version cause httpurlconnection npe call conn getresponsecode someone enter semi valid url catch set error,Android Version
+minimum api level change 8 android advance sql query use code not support sqlite engine built android prior api 8,Android Version
+target api 26 future version chrome support,Android Version
+fix crash zodiac add support device,Device
+fix crash device api level 29,Android Version
+fix update right fragment action context menu left fragment complete large landscape device,Device
+fix problem samsung device run android fix fcs,Device
+make findviewbyid usage compatible old version mono android not use generic overload,Android Version
+continue support honeycomb without action bar since cause java lang nosuchmethoderror android util sparsebooleanarray clone transactionlist,Android Version
+update sdk move androidx,Android Version
+update app android compatible,Android Version
+style fix version lollipop crash appcompat like theme not use,Android Version
+update sync min api 10 gingerbread,Android Version
+ignore photofetcher android version 7,Android Version
+keep compatibility android version,Android Version
+support notificationchannel api android,Android Version
+change target android api16 add support library version utils class,Android Version
+work notification android oreo follow version,Android Version
+remove dashclock support fix 404 error sign fixed share tweet list fix white button pre lollipop version,Android Version
+support android 17 rtl uis,Android Version
+lacrosse device support,Device
+fix fix crash occur create config file device api level 26,Android Version
+fix incompatibility related crash hiding medium preview option select device api level 19,Android Version
+add text reflow android version kitkat,Android Version
+fix camera issue least android version honeycomb 11,Android Version
+set target api will work marshmallow permission without hope break gingerbread install,Android Version
+kitkat support change header disable low api version,Android Version
+update issue 453 fix honeycomb mapcontroller,Android Version
+update travis build script use android sdk api 19 android,Android Version
+fix app crash device flash not support,Device
+disabled wal compatibility make work android pie,Android Version
+fix intent filter issue android 6 now really update translation increase version,Android Version
+list fragment now inherit smoothlistfragment simpler code smoothness lollipop,Android Version
+fix crash cause dialog old platform version,Other
+upgrade robolectric api marshmallow,Android Version
+fix crash android 4 nobackupfilesdir apilevel 21 try fall back samsung fingerprint api even android 6,Android Version
+zoom enable game world map update android api 21,Android Version
+separate version cupcake device,Android Version
+fix crash due api 19 version,Android Version
+fix crash platform not initialize memory zero,Other
+add keyboard scroll wheel support,Device
+fix device android api 14 19 enable fullscreen option software navbar hidded user tap screen navbar appear without interaction hiding software navbar device android 19 disable,Android Version
+add feature extend range play store support device android,Android Version
+support genshellswitch device,Device
+workaround crash update android,Android Version
+enable sync idle android marshmellow device,Android Version
+work around broken bluetooth listen behaviour android 6,Android Version
+lastupdatetime support api 9 gingerbread,Android Version
+change minimum android version update dependency,Android Version
+update notification android channel,Android Version
+fixed support api 21 device,Android Version
+try recover break pie support device asus eeepad close issue,Device
+solve crash pre lollipop device,Device
+use version jgit compatible android,Other
+raise minimum api version 16 since require android,Android Version
+integrate fileprovider support android,Android Version
+fix notification crash jellybean kitkat vector drawables not support notification action button,Android Version
+add back support cupcake make choice preview callback conditional build flavor fix number non dpi aware resource dimension bump version beta 3,Android Version
+add calendarcontract java android 4 source add support legacy api find android 2 3,Android Version
+version phone tablet support,Device
+move framework version since longer support android 2,Android Version
+optimize import allday lead crash gingerbread dtend duration can not null event respect constraint define api doc allday set 1 eventtimezone must timezone_utc time must correspond midnight boundary,Android Version
+build update target api lollipop,Android Version
+change version name update late sdk add support android,Android Version
+fix avoid app crash login api version 24,Android Version
+use viewpagerindicator non tablet main menu add patch compat lib keep compatibility android require viewpagerindicator android lib work,Android Version
+upgrade api level 27 fix nullability problem new support library,Android Version
+use old version okhttp enable support api 14,Android Version
+update target api version,Android Version
+add webviewclient subclass api level 24,Android Version
+updated target api level android,Android Version
+update componentkey compatibility build,Other
+patch vehicle gpsd allow navit use gpsd api version 7 high api change,Android Version
+not use okhttp froyo not support crash app,Android Version
+gingerbread get thing use support version action bar accessors,Android Version
+fix security exception custom tab device,Device
+update tool nougat,Android Version
+quickstep onboarding backward compatibility device release android nougat,Android Version
+add support control exposure froyo device fix typo,Android Version
+fix android device,Android Version
+correctly evaluate native library dir device use android gingerbread thanks peter sterlund,Android Version
+fix invisible toolbar icon api21 update icon themed attribute v19 v21 style srccompact android src can not exist time otherwise will crash not work,Android Version
+initial support android 9,Android Version
+update api 23 material dialog android permission,Android Version
+fix crash create talisman old android version,Android Version
+fix crash update old version,Other
+large refactoring work pollservice untested androidmanifest xml changed min api version back ice cream sandwich enhanced notification show run device api version 16 high,Android Version
+fix crash device pre lollipop,Android Version
+update launcher use new bitmap density api,Android Version
+initial support load opengl android check,Android Version
+fix android crash push notification,Android Version
+use material style fast scroll thumb track drawables api 21,Android Version
+build update target api 22 android support,Android Version
+fix crash android api 16 jelly bean,Android Version
+added support old android api version 15 add api version check necessary notification server announce hide preference see issue,Android Version
+bugfix service crash android 4 device,Android Version
+android compatibility fix,Android Version
+fix crash old android device,Android Version
+fix crash ancient android version due miss contentintent,Android Version
+update android target support runtime permission android marshmallow,Android Version
+fix datepicker crash android api 11,Android Version
+updated intellij idea project file work android api version,Android Version
+small fix compatible android,Android Version
+unused gridlayout remove crash android version prior,Android Version
+mmajor update add location permission marshmallow fix ability select gps device fix leak intent receiver,Android Version
+update android kitkat,Android Version
+increase require android api version 18,Android Version
+remove compatibility related stuff old android version api level 14 remove actionbarsherlock theme remove special treatment values v11 remove support library remove call actionabrsherlock api use new motionevent api,Android Version
+fix crash android api 22,Android Version
+upgrade target api level 28,Android Version
+android raise minimum android version api level 21,Android Version
+update android work android studio version,Android Version
+fix exception gingerbread device use resourcecursoradapter constructor available api version,Android Version
+crash start kitkat api level 19,Android Version
+removed unneeded code previous commits test kitkat lollipop phone everything seem preserve expect,Android Version
+copy android util pair java class aosp available api level 5 app must compatible api level 3,Android Version
+bladerunner fix crash device android sdl port,Device
+drop support api v7 low android froyo now early supported version,Android Version
+update android sdk build tool support library v21,Android Version
+fix app crash opening android oreo,Android Version
+translate tweak range android compatibility bump version,Android Version
+fix crash pre lollipop device api level 20 prior due try load attribute drawables,Android Version
+updated symbian project qqrdecoder now support late device symbian symbian^3 belle anna use sdk camera apis mobility,Device
+move late version support v4 android support repository,Android Version
+increase target api library 28 pie fix force update fix retry weather check,Android Version
+use old version okhttp enable support api 14,Android Version
+android version 37,Android Version
+rework background service via android job finally add support new android version respect doze mode stop crash app android 8 fix fix,Android Version
+build target api 24 android nougat support,Android Version
+auto scale text support android,Other
+various apps update android api level 15,Android Version
+fix crash android 2 device,Android Version
+update support lib not crash auto scroll android version,Android Version
+badass android eclair support fix tabhost npe,Android Version
+update android api,Android Version
+add ffmpeg support blackberry10,Device
+temporary disable atrac3 mono crash android Other,Other
+upgraded support lib version,Android Version
+update htmltextview version fixed compatibility issue,Other
+add basic gamepad support android,Android Version
+updated dagger fabric android plugin support library,Android Version
+version add compatibility code android api level 14 start work thre pane layout tablet devices not functional yet fix issue break list json fixed enhancement support lazy server cron job fetch feed fix enhancement inject link web article end article minor bugfixes refactoring,Android Version
+update api 28 androidx,Android Version
+fix crash pre marshmallow device,Android Version
+update support library set sdk 24 todo fix file access,Android Version
+support margin api level pre 17,Android Version
+fix fix compatibility old android version,Android Version
+update support libs marshmallow release version,Android Version
+fix crash android version episode amount null dialog,Android Version
+disabled honeycomb support much hassle worth right now,Android Version
+downgrade commons compress work various android version version fail nougat old order gradle file jsword requirement,Android Version
+download current strip via native downloadmanager support device since api 9 include,Android Version
+fix health bar marshmallow device test donut x86,Android Version
+add support new foreground api,Other
+bump support library version,Android Version
+android__compatibility,Other
+update android 6 api 23 replace reference http client add exclude dependency apache http,Android Version
+update app target android 9 pie,Android Version
+revert android 15 cloudbees not seem support android 16 yet,Android Version
+fix system network setting not open android ice cream sandwich,Android Version
+support kitkat document provider,Android Version
+update beta label text view compatibility version,Other
+mark foreground service use location connection device can run properly android 10 app background might fix,Other
+fix crash android version lollipop early due unsupported way vector drawable icon assign radio button,Android Version
+added support old android version,Android Version
+use switchpreference api version new kitkat,Android Version
+try fix device compatibility issue fujitsu phone,Device
+storage permission need android,Android Version
+use froyo compatible api call display class,Android Version
+fix crashbug android 8 device,Android Version
+recode contactsmanager manage account gmail exchange sdk adapt smsmanager contactsmanager compatibility set min sdk version eclair fix forceclose xmpp disconnection add current version main window,Android Version
+update android api 22 build tool well handling dependency via make android deps,Android Version
+deactivate icon tint drawer menu icon pre lollipop version,Android Version
+update api,Android Version
+fix crash occur search due recent update android support libs,Android Version
+upgrade late support library,Android Version
+compile api 23 disallow app backup disable rtl support layout test security not run webview addjavascriptinterface android,Android Version
+support new lollipop batterymanager access current information use default device appear work fall back old filesystem based hack batterymanager access clearly not support add new option prefer old hack new,Android Version
+fix crash unresolved type low api phone,Android Version
+upgrade sdk version 29 android,Android Version
+update androidx,Android Version
+initial support source login upgrade support library version,Android Version
+prevent popup app build old version android pie release via,Android Version
+support ioio uarts android,Other
+update late library integrate api change,Android Version
+add support grc aesgcm function help compatibility,Other
+update sdk 29 android 10,Android Version
+update support library target sdk build tool,Android Version
+use compatibility mode now,Other
+update android api level 19,Android Version
+update target sdk version project,Android Version
+update tool support sdk late,Android Version
+update android qqq beta 2 apis,Android Version
+android sdk update detect store flush kill,Android Version
+update support library version 11,Android Version
+fix crash marshmallow,Android Version
+tsmf ffmpeg update late version api fix,Android Version
+update support v4 android aac enc api,Android Version
+android cmakelists txt added support support compatibility support library path v7 appcompat,Android Version
+update storage api android qqq,Android Version
+fix crash try sync message certain lge device,Device
+remove screenshot command due incompatibility pretty much phone android version,Other
+remove android lollipop specific build target,Android Version
+fix pre sdk 18 compatibility crash dispatchdraw,Android Version
+support android marshmallow permission system,Android Version
+check whether wno unused set variable support use seem available recent version gcc,Other
+update service code still support pre device,Android Version
+integrate android support design library style formula,Android Version
+fix map key android version now support,Android Version
+update late version support library,Android Version
+target android pie api 28,Android Version
+update support library version,Android Version
+update android 6,Android Version
+avoid crash pre android 6 device,Android Version
+android 18 android 19 not seem cloudbees yet,Android Version
+not use custom notification style jelly bean,Android Version
+add support use http download content android 4 workaround device old security certificate,Android Version
+bump app minimum version kitkat now pretty stable release place ensure future development work can focus new android version,Android Version
+added support multiple platform ruby,Other
+migrate androidx update preferencefix version,Android Version
+update fix pre nougat device add request_install_packages oreo version,Android Version
+add dng support device,Device
+api update close,Android Version
+downgrade android support lib froyo,Android Version
+remove class compatibility notification android api level less 14 not support,Android Version
+fix android version check jelly bean 16 18,Android Version
+work issue markdown crash pre gingerbread device,Android Version
+use base style dialog button android 2 support library non existing color reference cause activtiy crash fix github issue,Android Version
+add support get device mac address android 6,Android Version
+simplify kotlin code order fix crash pre android 7 version,Android Version
+update android library,Android Version
+update support library,Android Version
+update android sdk increase version number third party libs,Android Version
+add database persistance asb fix armor piece selection early android version,Android Version
+remove magic number unnecessary version check longer support android version,Other
+update tile service api andnav2 compatible storage card bugfix auto follow,Android Version
+fix yaml parser crash app kitkat low,Android Version
+update android support lib,Android Version
+fix android version check jelly bean 16 18,Android Version
+remove low density version icon android phone force install least medium density version,Android Version
+use bundleargs dialog instead name params ensure proper recovery instance state save fix android compat bundle putcharsequencearray api v8,Android Version
+upgrade api level 27 fix nullability problem new support library,Android Version
+add fullscreen support android device later signed dan cunningham dan github digitaldan,Android Version
+migrate androidx,Android Version
+fix crash renamed module app adguard_cb added two flavour build separate samsung yandex version different version number change versioning multiple apk support,Device
+remove vector asset favor png prevent old api crash,Android Version
+update target api version,Android Version
+theme fix pre honeycomb device documentation consistency fix updated version number,Android Version
+set minsdkversion 16 goodbye device android version jellybean,Android Version
+added price spike alarm close now compile android sdk 21 updated dependency version pom github release plugin now maven central remove jabylon,Android Version
+fix crash old android version,Android Version
+reduce compat need constant reference api android 4,Android Version
+upgrade last android lib compatibily version fix issue search,Android Version
+add legacy support torchapi pre marshmallow device fix crash,Android Version
+remove edittext underline android kitkat,Android Version
+layout minor fix crash low api device,Android Version
+bump minimum sdk version lollipop,Android Version
+update last android version,Android Version
+add version detection oreo,Android Version
+low minimal support sdk version 21 android 5,Android Version
+lower sdk version back 21 lollipop,Android Version
+update support libs awareness api service,Android Version
+revert update jauditagger not support android properly,Other
+recalculate stock value price update compatibility value use desktop version,Other
+fix sync pre android 4 device,Android Version
+add support new apis orearelated configurable shortcut,Android Version
+fix crash pre 21 api device,Android Version
+support api 8 froyo,Android Version
+fix onboarding crash android lollipop,Android Version
+fix crashbug use ssl pre android version,Android Version
+support android api level 10,Android Version
+add api 21 lollipop support,Android Version
+split file manager update android version classpath,Android Version
+added platform switch phonegap file blackberry handset,Device
+support oreo new shortcut pinning api,Android Version
+updated support library version,Android Version
+update sdk 21 change version name,Android Version
+use design support app compat textview take advantage new apis,Android Version
+fix massive crash pre kitkat device,Android Version
+addons add addon migration compatibility checking,Android Version
+version note user android oreo 8 revert change new library version mainly forcibly disable animation preference make sure move article work currently solution fix issue feedname not show empty overview fix issue trust anchor certification path not find fix issue add option disable feed icon download fix preference not save,Android Version
+update android compatibility library,Android Version
+change minimum support android version,Android Version
+integrate library order get childfragmentmanager support device also bring rudimentary gingerbread support,Android Version
+fix crash pre lollipop device remove account,Android Version
+update support lib version,Android Version
+remove jmdns api integrate android will use,Android Version
+improve pick mode compatibility old android version,Android Version
+fix crash meizu device,Device
+added support android intent android intent action send_multiple way work old device worked fine android emulator,Android Version
+solve crash pre lollipop device,Android Version
+make touchscreen stylus support robust support bluetooth stylus hopefully fix break touchscreen input device,Device
+add copy hash compatibility version prior honeycomb,Android Version
+upgrade support android api 24 android studio preview 3,Android Version
+statusbar background color android,Other
+fix avoid app crash login api version 24,Android Version
+android minimal supported version now java stream api use improve speed activity timeline load notification everything send user,Android Version
+change low sdk version froyo api 8,Android Version
+fix android 4,Android Version
+feature support android oreo,Android Version
+fix crash android version not support shortcut,Android Version
+fix cause crash float mode old version android,Android Version
+upgrade late android api,Android Version
+target android 10,Android Version
+add explicit large screen support manifest targetting android version 13 8,Android Version
+fix crash old android versions,Android Version
+design tablet fix crash honeycomb update actionbarsherlock,Android Version
+fix uploading image crash android nougat,Android Version
+add nougat support droop kitkat support,Android Version
+change target api 24 updated support library version,Android Version
+android revert 54f9c50572fe540cc754538f6e93e6a87a8552fd since now support android api 21,Android Version
+update min sdk version 23 marshmallow android 6,Android Version
+update support libs version,Android Version
+device add support lineageos lenovo k920,Device
+update build tool target sdk version support evernote job,Android Version
+fix fab animation get stick middle old version android,Android Version
+upgrade api version,Android Version
+fix npe storage detection code android,Android Version
+support marshmallow doze standby,Android Version
+updated target sdk 18 different target androidmanifest xml project properties cause problem add code new apis now set value,Android Version
+update android dependency late sdk api 27,Android Version
+update react native notifications late version clean android manifest file update target sdk version 27 fix gcm error android 8,Android Version
+import export fix fix preference fix crash android notification change statushelper implement webserver update routine,Android Version
+version finish android support,Android Version
+update minimum android version kitkat device,Android Version
+specify android support version,Android Version
+split filemanager distribution library upgrade android share common object,Android Version
+update androidx preference version,Android Version
+update support library version,Android Version
+adaption pre android 4 device new actionbarsherlock version,Android Version
+drop gingerbread support update library,Android Version
+upgrade dependency add support android,Android Version
+update support library v25,Android Version
+add backward compatibility support,Other
+fix crash android 9 reply notification,Android Version
+add basic android jelly bean support,Android Version
+updated minbaractivity interface quickcenter interface fix crash android group item can now drag,Android Version
+android update target sdk version 28,Android Version
+update manifest min api version 8,Android Version
+update support library,Android Version
+add compatibility android min api 19,Android Version
+backward compatible navigation drawer toggle freebie,Other
+build tool update compile nougat version,Android Version
+project apart marker need stay api 10 compatible fix compatbilility,Other
+fix crash relate miss label field upgrade old version,Android Version
+revert update jauditagger not support android properly,Other
+update android api,Android Version
+update support library refresh version readme,Android Version
+kotlin android sdk version update,Android Version
+drop support android version convert http client use okhttp use android number picker instead third party lib,Android Version
+remove support android version gingerbread,Android Version
+update support library version,Android Version
+apparently phone crash notification make without contentintent,Device
+galaxy s7 edge device support since android,Device
+not use white navigation bar early version android remove obsolete style xml file use vector drawables imageview properly app srccompat load use appcompatresources prevent crash android 4,Android Version
+workaround android version oreo work wifimanager startlocalonlyhotspotcallback specifically android version,Android Version
+upgrade api appcompat version,Android Version
+add polyfill reflect support android device,Android Version
+update android sdk api 26,Android Version
+android version old not support certain unicode character code update support device,Android Version
+fix crash cause vector drawable pre lollipop device,Android Version
+fix opengl device support everything need two device mesa software rasterizer intel ironlake hack basically since not support opengl can not grab version new way fail set continue,Device
+fix input device k2,Device
+upgrade sdk version 26 oreo,Android Version
+support super widescreen android device,Device
+update android sdk version,Android Version
+vertex draw break android version 4 hardware acceleration enable default disable manifest thanks vman,Android Version
+adis improve compatibility new version berlin,Other
+update target sdk compat library version android support,Android Version
+correct color status bar implementation lollipop updated status bar color activity dark toolbar color tag editor add elevation view etc get kitkat support colored will also come back soon systembartint,Android Version
+update compatibility section,Other
+update featured graphic fix error pre lollipop device,Android Version
+fix crash account reorder device api 21 disk error message instead crash error save queue,Android Version
+add wrapper clipboardmanager handle honeycomb version api,Android Version
+update api 27 add runtime permission,Android Version
+fix android api 15 remove synchronize,Android Version
+deal old android without ble support,Android Version
+integrate android support design library style floatingactionbutton,Android Version
+build tool update compile nougat version,Android Version
+update version targetsdk support library fix issue actionbar not show hamburger menu support library v22,Android Version
+get caller package system use usagestatsmanager device api 22 api level 20 21 device leave,Android Version
+update matrix sdk set delay two catchup sync,Android Version
+acommodate firebase time issue make test compatible api23 disable downloadfiletest api 25,Android Version
+drop support android version api level 14 development will old version,Android Version
+use androidx multidex support kitkat,Android Version
+fix action bar position previewimageactvitiy android,Android Version
+limbo 3 compat lib fix android filesystem support remove memmove fix add signal fix kvm add resolution setter good log macro,Android Version
+fix crash press back map android version,Android Version
+update support version,Android Version
+remove dashclock support fix 404 error sign fixed share tweet list fix white button pre lollipop version,Android Version
+make android versionname compatible amazon app store,Other
+update support library will fix,Android Version
+workaround sony android version,Device
+not set paddingleft checkbox device android low,Android Version
+window mobile 5 device support require late sdl windows port available updated week use old mouse code avoid scaler problem fix release,Device
+fix crash new connectivity indicator android,Android Version
+update image source attribute compatibility android namespace,Other
+added support immersive mode kitkat device,Android Version
+upgrade minimum android version api 16,Android Version
+prevent popup app build old version android pie release via,Android Version
+make android new min supported android version,Android Version
+revert api level 7 support android device,Android Version
+add android auto support,Android Version
+fix crash android cause miss method,Android Version
+remove maxsdkversion support android 10 android resizeableactivity true remove letterbox 21 9 screen change versioncode format,Android Version
+fix notification crash lollipop,Android Version
+update support lib version travis,Android Version
+droid fix android manifest api level 9 device will longer receive error,Android Version
+backup agent app setting cloud fix recur npe deploy device fix issue layout string follow android lint advice new code formatter remove useless comment split user share preference 2 default local,Device
+updated theme name support api level 23,Android Version
+version 1 implement well error report mechanism modify tablet layout reduce complexity code bugfixes fix methodunknow exception old api level,Android Version
+drop api version 14,Android Version
+crash fix fix kitkat crash,Android Version
+android fix crash 3 device add title display vnc activity,Android Version
+update late support libs,Android Version
+npm run android device longer android platform,Android Version
+com android contacts update oreo,Android Version
+shop list fix crash honeycomb use correct compatibility layer,Android Version
+update use android api 18,Android Version
+fix update asset support old version,Android Version
+target android 9 28 update necessery version,Android Version
+update support library version,Android Version
+add back correct padding leave instead start compatibility api 16 version,Android Version
+provide backwards compatibility notification system device android,Other
+workaround android 9 pie,Android Version
+update conductor support preference androidx preference compat fix,Android Version
+add support api 19 kitkat,Android Version
+stop support android kitkat,Android Version
+upgrade timber require update min api 15,Android Version
+update android support library version,Android Version
+fix fully work switch widget action bar turn gps work api level currently support app android high,Android Version
+fix android app not update self due security change introduce api 24,Android Version
+fix issue 1 gpsskyactivity draw screen ice cream sandwich update project use android sdk tool r20 add targetsdkversion attribute manifest also bump version number manifest,Android Version
+update google analytics library android 11 compatibility,Android Version
+bump gradle fix compat android fix crash videooverlayfragment,Android Version
+fix clipboard related crash pre honeycomb device,Android Version
+add miss legacy log library android 10,Android Version
+update android longer need internal apis,Android Version
+2509023 npe upgrade froyo,Android Version
+fix android 19 crash old guava,Android Version
+version old 2 device not use google service api,Device
+fix crash android 10,Android Version
+revert app platform android 19 unsupported symbol android 21,Android Version
+import export fix fix preference fix crash android notification change statushelper implement webserver update routine,Android Version
+correct size filter button new version android,Android Version
+added support fir res game standard palmos 5 device touche add aspect ratio selection,Device
+update version check work,Android Version
+fix remote access problem due vector graphic incompatibility android 4 device,Android Version
+fix api level 15 can not use android attribute,Android Version
+deactivate icon tint drawer menu icon pre lollipop version,Android Version
+update sdk android oreo api 26 dependency,Android Version
+fix crash extension release version crop border support android,Android Version
+fix crash android setting buffer render start game,Other
+update main app honeycomb mr2 downgrade signal strength app gingerbread since not need anything,Android Version
+add makeshift support old android version,Android Version
+start update late sdk 23 library version,Android Version
+fix crash startup device android version 9,Android Version
+update dependency add support android 8 version code 464,Android Version
+split file manager update android version classpath,Android Version
+upgrade last android build version,Android Version
+upgrade target version api level 26,Android Version
+135 change sqlite access readonly help support android version kitkat block write access external sdcards,Android Version
+change target platform now android still keep compatibility,Android Version
+fix crash api level 21,Android Version
+work around asset compress size limit android,Android Version
+remove path data ic_button_permission version not support permission prevent crash see device,Device
+show draft emojified android version kitkat,Android Version
+many fix root fix marshmallow,Android Version
+fix fix crash occur oscilloscope device api level 26,Android Version
+use android sdk manager plugin restore android support require api 19 build,Android Version
+update android sdk version,Android Version
+fix crash android x86 device,Android Version
+change target jelly bean api 18,Android Version
+avoid crash android version low 5 upload download fail due network connection lose,Android Version
+time stretch default android,Android Version
+fix issue bad camera quality device,Device
+add workaround android weird api version parser need include hire gfx twice now fix supressed warning due deprecation,Android Version
+set android minsdkversion 8 froyo now minimal support version,Android Version
+update new project api level 9 add xlarge screen size support,Android Version
+updated icon font color add tint wifi icon lollipop,Android Version
+remove outdated comment support vector drawables pre android 5 device stay,Android Version
+update bumping minimal version android android,Android Version
+safe demo update android set save version rc1 without release yet,Android Version
+build target api 25 android nougat support,Android Version
+update android sdk build tool support library v21,Android Version
+move connection stuff sony fragment add later support device,Device
+android 8 initial support fix updater not install update,Android Version
+android nougat compatibility,Android Version
+android specify not require touch screen might increase compatibility device thanks reicast also,Device
+use disable attribute timers change remain backward compatible previous method modify device definition disable timer remove future version can sure nearly user still use old definition,Device
+version new setting visualization home add two visualization mode classic quick easy advance display page require resource default pre honeycomb device android version set classic post honeycomb device set advance advanced mode application crash force close application try set classic mode add display changelog added language spanish,Device
+fix dialog fragment preference fragment crash android oreo,Android Version
+fix crash due compatibility vector icon old device,Device
+try fix device compatibility issue fujitsu phone,Device
+update target version android clean remove iaps,Android Version
+update makefile can build lion regrettably mean withdraw support ppc,Other
+update sdk version app compat 26 android,Android Version
+update navigation drawer switch material design kitkat,Android Version
+add twitter oauth support use signpost lib use twitter4j lib access twitter data improve subway tab menu bus stop info menu subway station info menu fix locales add gingerbread sdk compatibility,Android Version
+android upgrade ndk api level 14,Android Version
+set windowcache config appropriate android device,Device
+fix classnotfoundexception android widget switch gingerbread device,Android Version
+update targetsdkversion android fix app version 25 crash,Android Version
+1 target android api set 28 http trafic allow default now http allow apache http client deprecation org apache http part code rewrite implement replacement org apache http client entity urlencodedformentity test unit also create purpose 2 switch gradle android gradle plugin,Android Version
+android support per game joystick dpad,Android Version
+cupcake not useful anymore use sdk 8 minsdk 3 work perfectly hvga device wvga device add support screens remove smallscreens compatibility allow largescreens anydensity already true,Android Version
+update support api 7 ability disable fastscroller work xml,Android Version
+listview getcheckeditemcount v11 high api added solution equivilent getcheckeditemcount api level 11 loop list get checked item count old device,Device
+android 6 read phone state start,Android Version
+end combine cupcake donut version main,Android Version
+added support froyo gingerbread honeycomb,Android Version
+change android 9 pie validate store file start mission add warn storedfilehelper java simplify communication missionadapter downloadmanagerservice java since share looper simplify setvisible downloads button logic,Android Version
+fix crash system marshmallow,Android Version
+android update build target sdk version,Android Version
+update android job support android oreo,Android Version
+rename version propose release candidate update readme txt describe jelly bean fix,Android Version
+fix crash pre honeycomb device,Android Version
+update battery indicator compatibility kobo glohd device,Device
+use common jar android da297b5a89c2b645573f231af3e47752f27fbc79 fix api 19 issue,Android Version
+update large aspect ratio new android flagship device bump compilesdkversion version 25,Android Version
+retire support android version,Android Version
+android update min sdk version desktop,Android Version
+fix crash open video android minor fixes code clean,Android Version
+fix notification work android oreo whan background service launcher launch foreground notification always show service stay something play stop connection error quit kodi 5 second stop make pause phone call preference dependent show notification preference always need show notification service run,Android Version
+update migrate android support androidx,Android Version
+one device crash not fixing,Device
+fix launch crash pre marshmallow device,Android Version
+update library android 23,Android Version
+use ipv6 rout api fallback lollipop,Android Version
+android bump targetsdkversion androidmanifest xml file 19 kitkat nothing require compatibility behavior enable maintain forward compatibility,Android Version
+shortcut android data usage preference also pre ics device,Device
+upgrade dependency downgrade material dialog avoid crash old android version,Android Version
+sync persistence update use new sdk,Android Version
+use network callback android 6 marshmallow,Android Version
+fix crash android 4,Android Version
+decrease minsdkversion support device close,Other
+drop support kitkat target android qqq,Android Version
+fix massive crash pre kitkat device,Android Version
+update library update android sdk remove deprecated apis,Android Version
+remove vector drawable use notification pre lollipop device crash,Android Version
+android cmakelists txt added support support compatibility support library path v7 appcompat,Android Version
+workaround crash samsung device android,Device
+change android 9 pie validate store file start mission add warn storedfilehelper java simplify communication missionadapter downloadmanagerservice java since share looper simplify setvisible downloads button logic,Android Version
+fix notification not display oreo,Android Version
+upgrade androidx move materialcomponents theme,Android Version
+issue 311 not reuse sqlitequerybuilder cupcake donut due android issue 1587,Android Version
+fix debug change line separator dbg work also win platform,Other
+upgrade support library version,Android Version
+make card radius 0dp lollipop not crash kitkat,Android Version
+add miss alignparentright old android version,Android Version
+implement chrome custom tab update android support dependency udpate app version,Android Version
+update api 25 api 26 android,Android Version
+fix bookmark crash android 10 change icon change version,Android Version
+fix cause immedate crash pre api 20 device,Android Version
+update version number honeycomb version beta 1,Android Version
+fix unresumed application android 8 device,Android Version
+add compatibility android min api 15,Android Version
+version modify theme reduce complexity introduce first material theme stuff slightly change layout spacing item change color allow reset imagecache preference menu reduce impact run imagecache fix interfere imagecache fix html entity appear image caption implement new toolbar replacement actionbar remove lollipop reason add content filter api level 17 avoid vulnerability script attack,Android Version
+upgrade android support library hope new version might fix perf issue old one,Android Version
+accord eclipse minimum sdk version set 2 target android set,Android Version
+revert propertiesactivity fix pre honeycomb android version,Android Version
+saf implementation full support directory api android lollipop later best effort handle kind error miss file revoke permission etc recover download implement directory choose fix download database version upgrade misc cleanup not release permission old save path user change download directory saf api,Android Version
+disable bad linter warn old api use support library,Android Version
+update color emoji android,Android Version
+add text speech wrapper donut device can use android system pre donut will still fall back eyes free,Other
+fix android build use hardcoded path data instead use one fetch android api init fix android miss version information,Other
+update gradle replaced compile implementation dependency create new product dimension android pie fix start crash affect android pie,Android Version
+update platform android sdk remove path hardcoding,Android Version
+bugfix pre marshmallow device disable sound vibration work option not toggle,Android Version
+update android library version,Android Version
+simplify storage apis use use java classic way old android version use storage access framework new android version android lollipop later change external card write permission add option ask save path download warn user save path not define happen first newpipe run android lollipop later,Android Version
+fix wrong android version constant ispowersavemode,Android Version
+update circleci image version android api 29,Android Version
+migrate support library architecture component androidx,Android Version
+upgraded target sdk version 26 due google requirement,Android Version
+add fullscreen support android device later signed dan cunningham dan github digitaldan,Android Version
+update android job support android,Android Version
+update resolver api android 8,Android Version
+update target android sdk platform 24,Android Version
+update android support libs,Android Version
+support iphone6 login screen,Android Version
+45401 fix crash old version android,Android Version
+bump minimal android version api 21,Android Version
+update android 8 api level 26,Android Version
+support api level 3,Android Version
+add legacy support torchapi pre marshmallow device fix crash,Android Version
+low minimal support sdk version 21 android 5,Android Version
+android enable displaymode api device nougat,Android Version
+update dependency add support android 8 version code 464,Android Version
+upgrade compile sdk 27 update library late compatible version,Android Version
+android update build sdk 26 28 version,Android Version
+various apps update android api level 15,Android Version
+support api 25 use new divideritemdecoration,Android Version
+fix notification compatibility oreo,Android Version
+update xep 0184 support version backward compatibility version,Other
+update large aspect ratio new android flagship device bump compilesdkversion version 25,Android Version
+walletapplication low android version requirement full sync,Android Version
+updated support library,Android Version
+fix compatibility old android version least effort,Android Version
+fix click notification action will crash certain android device,Device
+android studio update gradle version update,Android Version
+add new hardware profile update jelly bean galaxy nexus omap4460 powervr sgx540 require new set polygon offset value fix flickering shadow new value not match previous profile add new profile profiler check hardware string tuna android version decide profile use,Android Version
+update target sdk 28 pie,Android Version
+fix gradle build android release build android backup disable face lollipop like,Android Version
+update armips submodule attempt blackberry buildfix,Device
+minimal android version api 25,Android Version
+fix crash pre lollipop device api level 20 prior due try load attribute drawables,Android Version
+track edit move activity icon next activity lable icon show gingerbread phone,Android Version
+compile api 26 target,Android Version
+add v4 support library update notification api,Android Version
+upgrade dependency downgrade material dialog avoid crash old android version,Android Version
+added support api level 13,Android Version
+build removing support armeabi since armeabi device support minimum api level,Device
+fix item click intent app widget pre honeycomb device,Android Version
+add material function fix crash notification previous android version,Android Version
+move greendroid api version 8 just people not install extra android sdk,Android Version
+float scale animation fix crash old android version,Android Version
+fix crash paracompact honeycomb,Android Version
+fix crash send photo nougat improve compose type speed update user agent,Android Version
+update app icon device android 8,Android Version
+android support set target api add permission support update zbar library fix camera preview nexus 5x,Android Version
+fix crash add widget android api 15 fix,Android Version
+bugfixing batch update lollipop device,Android Version
+old version android view get wrap way break onclick handler registration work around not use onclick handler,Android Version
+update api level 19,Android Version
+update guava version fix r8 compatibility,Other
+fix crash android 2,Android Version
+target android pie api 28,Android Version
+version break enchiridion separate part try mitigate crash sony xperia device,Device
+override version source android support v4 use one api 17,Android Version
+oops fix compat report android,Other
+design tablet fix crash honeycomb update actionbarsherlock,Android Version
+new version number update play store fix issue galaxy 4s mini updated support library,Device
+add android share plugin phonegap let send little message via whatever apps support device,Device
+fix tracker compatibility old osmand version,Other
+enable kitkat statusbar navigation bar transparency,Android Version
+peer notification icon android low,Android Version
+several fix test old android 4 phone fallback native code not available correctly load native code crash native power function zooming device report negative span,Android Version
+update proguard rule workaround samsung compat support,Device
+remove compatibility code pre api 19 version,Android Version
+upgrade target android api level 28 android 9 move non functionality main activity baresip service simplified implementation call transfer modify baresip launcher status bar image,Android Version
+fix cell operation pre gingerbread device,Android Version
+swallow another weird android http lib exception use proper ioexception constructor now api 9 not log unuseful message obscure error,Android Version
+migrate androidx api 28 android 9 support,Android Version
+target late android version update build tools,Android Version
+update support libs version,Android Version
+add search button option menu option menu now full search setting will often end ^^hup menu still plenty android device without search button include honeycomb tablet,Device
+keep window device sleep play,Other
+add api level compatibility support class,Android Version
+implement isvalidfragment fix android fix android api 19 kitkat close,Android Version
+fix crash boot android oreo,Android Version
+switch honeycomb controller interface cross platform support,Other
+fix offline broadcast receiver not work oreo device,Android Version
+update support library,Android Version
+updated app android lollipop,Android Version
+add back support api level 7 12 android 1 shockingly large percentage pro free especially free user old version android not receive future update minsdkversion leave set 13 rather old 7 seemingly work proguard setup enable now add old support library make apk little large proguard enable set currently add support old version android grow apk 400k must test carefully enable release,Android Version
+set target api 23 android support,Android Version
+use saf supported android version,Android Version
+remove api check low version not support anymore,Android Version
+min version android fix compile error due lib update,Android Version
+update targetsdkversion compilsesdkversion 28 update support library version update build gradle version,Android Version
+junit modification support mobile device,Device
+update support library android gradle plugin late,Android Version
+qml support extreme widescreen android device,Device
+float scale animation fix crash old android version,Android Version
+fix affect old android version,Android Version
+fix crash android,Android Version
+add app name notification text version android nougat,Android Version
+early version compatible api_level 7,Android Version
+fix notification hide old android version hide set oreo,Android Version
+fix compatibility issue news version 10 drop api v1 support,Android Version
+change google play service froyo rev 12 continue support android,Android Version
+tag android version support different contact book behavior android 19,Android Version
+fix support device api 21 attr inside drawable resource,Device
+fix android 4 breakage due newer version okhttp drop support revert change make proguard file fix crash,Android Version
+xlarge screen support api 9 gingerbread onwards,Android Version
+remove reference j2me platform specific class android build configuration update android project file android sdk fix compilation android foreground service android 3,Android Version
+fix crash determine bluetooth mac via reflection pixel 2,Device
+add channel support android oreo,Android Version
+default vulkan android pie later fix,Android Version
+add service execute scheduled task upgraded minimum require version gingerbread api level 9 also need betterpickers library modify exporterasynctask executable without context add targetapi annotation class require api level 11,Android Version
+cleanup move android version buildsystem config good compatibility,Other
+lan issue nougat version,Android Version
+add support add toolbar android,Android Version
+update support library version,Android Version
+android oreo support,Android Version
+possible fix enable connection use tls pre lollipop android version also expand enabled list cipher suite,Android Version
+resolve crash nexus one rotate device notification wizard open seem support library old android system,Device
+propertiesactivity fix pre honeycomb android version,Android Version
+update xchange switch android api level 19,Android Version
+update minsdk android honeycomb longer suppoted,Android Version
+fix crash issue ice cream sandwich device,Android Version
+fix compatibility warning layout update document change version 1,Other
+initial stab freeform mode support android pie,Android Version
+version support android,Android Version
+update new crashlytics not work api 8,Android Version
+fix struct pad error affect android x86 make produce savestates not compatible platform,Other
+split various apps gci task darriel update menu shortcut avoid conflict android shortcut fix issue 436 new shortcut,Android Version
+fix crash pre marshmallow device,Android Version
+fix legacy build not support phone number format pre api 14,Android Version
+com android calculator2 update oreo,Android Version
+target version change api level 17 update layout provide good support new android version issue,Android Version
+fix android device,Android Version
+I misunderstand marshmallow camera permission,Android Version
+new sdk compatibility fix photoview package update intent explicitly target package,Android Version
+fix crash android slide item,Android Version
+fix crash android 4 uploadservice removetempdirectory,Android Version
+update support lib version,Android Version
+implement check permission service device run api level 23 android high,Android Version
+update sdk build tool support library version,Android Version
+fix crash extension release version crop border support android,Android Version
+update sdk version honeycomb add hardware acceleration,Android Version
+new integrate emoji compat allow usage new android oreo emojis android,Android Version
+setstatusbarcolor android version lollipop,Android Version
+fix app crash openening setting android,Android Version
+add keyboard focus support phone,Device
+upgrade sdk version 29 android,Android Version
+whitelist issue pie version,Android Version
+updated support library version,Android Version
+android remove usb device not support,Device
+use compat library restructuring bring android support close,Android Version
+update target sdk version android,Android Version
+add backwards compatibility code version,Other
+basic compatibilty android api level 23,Android Version
+update android support,Android Version
+set android high compatible version issue solve,Android Version
+need use old api pre lollipop device,Android Version
+update support library version,Android Version
+update sdk version v4 support library,Android Version
+reader use supportinvalidateoptionsmenu instead invalidateoptionsmenu support device api v11,Device
+add auto fallback clear text upload ocid encrypt upload fails fail even android device,Android Version
+fix crash device not support file topath,Device
+improve compatiblility old android version,Android Version
+revert old version build tool compatibility gingerbread see,Android Version
+camara android version compatibility fix,Android Version
+fix crash android,Android Version
+version code name bump 13 respectively add combinationactivity use new api call cache pretty input field not autocomplete error handle catchall place others auto test function add backgroundanimation preliminary method animate background colour change pre honeycomb device without objectanimator not complete minor theme fix remove actionbar appcompatactivity behave right exist theme,Device
+android version not support scientific notation vector,Android Version
+add multidex support old apis update late,Other
+start work oreo autofillservice issue 9 upgrade target version 26 add service parse autofill structure not yet password,Android Version
+remove code backwards compatibility android api 5,Android Version
+split various apps update android api level 15,Android Version
+fix compatibility api version 1,Android Version
+disable old api,Android Version
+simplify storage apis use use java classic way old android version use storage access framework new android version android lollipop later change external card write permission add option ask save path download warn user save path not define happen first newpipe run android lollipop later,Android Version
+journal member update accord new member api,Android Version
+android default sdk android 26 update doc,Android Version
+update itext use android specific version,Android Version
+android sdk update layout support large resolution high dpi,Android Version
+several fix android 3 webserver now preference,Android Version
+fixed comment crash kitkat,Android Version
+fix compatibility api version 1,Other
+5338 jni issue android device,Android Version
+upgrade set min version api level 14,Android Version
+updated target api level 22 android,Android Version
+update vlc version fix crash android,Android Version
+update new sdk platform build tool,Android Version
+fix crash old android version,Android Version
+bugfix theme load Other not support cursor palette,Other
+fix crash android api 22,Android Version
+refactor support hardware keyboard customization easily integrate new device future,Device
+fix honeycomb compatibility seriously guy update,Android Version
+not set params syncronized seem anrs device,Device
+fix issue 4222 use wrong method get device sdk version result error apilevel 7 device,Android Version
+crash android,Android Version
+update android design support library,Android Version
+android additional support pocketbook device,Device
+change min version api 7 actionbarsherlock support,Android Version
+add png version ic_reply xml use pre lollipop device,Android Version
+now support api level 7 android still around 99,Android Version
+upgrade target sdk version 16,Android Version
+update test use api level 14 cm9 compat,Android Version
+add intellij idea project file add android v4 support library,Android Version
+saf implementation full support directory api android lollipop later best effort handle kind error miss file revoke permission etc recover download implement directory choose fix download database version upgrade misc cleanup not release permission old save path user change download directory saf api,Android Version
+unused gridlayout remove crash android version prior,Android Version
+wip updating element behavior support new old biometric apis android,Other
+fix pre froyo device cancel not support,Android Version
+update support library also fix background issue fabs pre android device,Android Version
+bugfixes api 14 compatibility fixed databaseinterface calendar column read incorrectly removed ripple effect generic action button drawable added updated app compatability v7 build config added updated support library build config added updated junit hamcrest dependency build config updated version code play store release will auto update,Android Version
+revert update android storage devices cause native crash,Other
+add broadcast_sticky permission fix bluetooth android 4 device,Device
+task assign xml not assume order number returned xml list old code work bitcomet early version fix need bitcomet later also compatible old version bitcomet,Other
+update support library version,Android Version
+update update version readme file honeycomb version beta 1,Android Version
+bump compilesdk targetsdk version sdk 26 android oreo,Android Version
+dirty fix fix android dirty retro compatibility support linesintersectionactivity,Other
+fix crash uploadstarter samsung device android 5,Device
+update minimum api version 16,Android Version
+update android sdk build tool api level 18,Android Version
+update robotium android support,Android Version
+make lgcamera failsave let legacy device load api1,Device
+port remain main code donut version not add yet toggle code lwp support hacky beta,Android Version
+android 10 workaround crash user click ringtone preference update version,Android Version
+add implementation asynctask support old device minimum api level 4 change call implementation,Device
+fall back lollipop mms api pdu response not success,Android Version
+fix crash device lollipop,Android Version
+update dependency target api 28,Android Version
+upgraded support library version,Android Version
+update support android api version 10,Android Version
+use query method compatible early api version fix conversion,Android Version
+android support androidtv oreo homescreen channel,Device
+release add support android oreo shutdownanimations,Android Version
+simplify storage apis use use java classic way old android version use storage access framework new android version android lollipop later change external card write permission add option ask save path download warn user save path not define happen first newpipe run android lollipop later,Android Version
+add read story view also add support 7 oversharekit,Android Version
+fix dialog button text color old android version,Android Version
+fix port_android system bar tint kitkat way make navigation status bar translucent transparent kitkat see corresponding code realted systembartintview enable since api 19 kitkat actually break navit api 17 device draw unrelated semitransparent bar top right side screen,Android Version
+fix startup crash pre lollipop device not use build supported_abis,Android Version
+fix crash android x86 device,Device
+update support library version 22,Android Version
+add shadow old android version,Android Version
+support sdk20 18 android 3 kitkat partly jelly bean,Android Version
+fix crash api low 21 android startup,Android Version
+update minimum android version require showdialog use fix rotation issue,Android Version
+update support library version,Android Version
+android toggle keyboard menu item device not search key,Device
+post digifit 1 add back froyo support use correct play lib 2 inc version new account add,Android Version
+implement lollipop external storage api 2,Android Version
+workaround android crash,Other
+upgrade support library,Android Version
+fix back button behaviour android honeycomb later,Android Version
+fix crash occur canteen list old android version,Android Version
+update support landscape tablet,Device
+fix crash api level 21 main timeline due try tint status button selector,Android Version
+support android lollipop,Android Version
+update api level 29 migrate androidx,Android Version
+fix recursion loop nougat android 7 device,Android Version
+require android get rid actionbarsherlock android support dependency repository provide sdk,Other
+fix issue sync device not require hash hack,Device
+fix android keyboard crash hdpi device,Device
+remove tilt map preference device not support rotation vector sensor,Device
+replace old support libs androidx api 28 compat fix,Android Version
+deprecate android sdk 8 sdk 24,Android Version
+update targetsdkversion 29 android change canvas clip soft keyboard adhere behavior change android 10 migrate androidx migrate use biometricprompt instead fingerprintmanager keep compatibility samsungpass api device like sgs5 close close close,Android Version
+android add support scummvm menu android device,Device
+fix crash ancient android version due miss contentintent,Android Version
+fix crash old android version,Android Version
+possible fix enable connection use tls pre lollipop android version also expand enabled list cipher suite,Android Version
+support swipable home screen xlarge device,Device
+remove pre eclair code update camera parameter handle use 2 apis,Android Version
+ignore cleartext traffic policy android pie new icon silver platinum update version number,Android Version
+fix crash low api level,Android Version
+update build marshmallow require move notification builder clean old plugin code switch v13 support library make api level 13 rather 7 new minimum old version will still serve older device plan upgrade new permission model next,Android Version
+switch current android sdk version api 22 _r2 java7,Android Version
+update common min require android 5,Android Version
+fix setting crash samsung android 6 device,Device
+fix crash api low 21 android startup,Android Version
+fix slew api device compatibility issue,Other
+added support dia api compatible device zodiac fix move_screen function density device,Android Version
+update readme add heads notification support android 5 update medium index receive file,Android Version
+update usb serial driver support device,Device
+service intent must explicit alarm idle mode lollipop marshmallow,Android Version
+fix crash launch preference android kitkat,Android Version
+upgrade target android api level 28 android 9 move non functionality main activity baresip service simplified implementation call transfer modify baresip launcher status bar image,Android Version
+fix crash key generation x86 device,Device
+update version enable support android 4 test fix,Android Version
+install shortcut android version support,Android Version
+nsd temporarily disable android kitkat api 19 due cause occasional reboots,Android Version
+update minimum android version jelly bean,Android Version
+fix crash folder picker pre kitkat device fix,Android Version
+add work around language persistency old android version,Android Version
+upgrade androidx support library,Android Version
+update backward compatible support import rule,Other
+fix crash android enable gdx controllers,Other
+hack temp fix crash moga lib lollipop,Android Version
+workaround samsung android,Device
+vulkan support device not properly support 16 bit texture like moltenvk,Device
+androidhacks support binding api 21,Android Version
+add compatibility api version 16,Android Version
+update library update android sdk remove deprecated apis,Android Version
+update common min require android version 5,Android Version
+clean apiadapter now support api 7 great,Android Version
+actual v8 compatibility,Other
+shop list fix crash android cupcake due build version sdk_int line 698 modify imported class,Android Version
+drop support android,Android Version
+big cleanup layout enhancement change android api level 11 14 improve treeview layout add treeview state persistence add quick password send button treeview added icon entry visiblein treeview cleanup non used stuff etc replace printview icon font android iconics mikepenz,Android Version
+update gradle address fab compat library layout render issue api 21 device,Android Version
+move notificationcompat builder notification android marshmellow compatibility compile target,Android Version
+fix crash old platform version,Other
+preference support header device multipane support,Device
+update compile sdk version 28 android 9,Android Version
+device run android version old android,Android Version
+implement storage access framework work finish mission database work downloadmission bump serializable version keep classic java api saf tree api support android lollipop high add wrapper saf stream open implement closeable sharpstream replace dispose method,Android Version
+saf implementation full support directory api android lollipop later best effort handle kind error miss file revoke permission etc recover download implement directory choose fix download database version upgrade misc cleanup not release permission old save path user change download directory saf api,Android Version
+cry fix kitkat lollipop device,Android Version
+fix crash splash screen version kitkat due try load vector drawable selector,Android Version
+fix notification crash jellybean kitkat vector drawables not support notification action button,Android Version
+str disable unit test old android,Android Version
+update newer support library,Android Version
+implement permission device run api level 23 android high,Android Version
+increase target api level 24 25 update support library rename classname fix,Android Version
+fix chaining chrome crash old android version,Android Version
+cec bump libcec minor change api clean not compatible previous version anymore,Android Version
+bump version drop android kitkat api 19 support,Android Version
+fix drawer crash api 24,Android Version
+support api level 19 kitkat,Android Version
+translucent navigation bar lollipop high,Android Version
